@@ -1,0 +1,5154 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Kayleen\n"
+"POT-Creation-Date: 2022-07-26 14:04+0330\n"
+"PO-Revision-Date: 2021-12-20 19:41+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/admin.php:34 admin/admin.php:35
+msgid "Theme Dashboard"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: admin/admin.php:34
+msgid "Kayleen"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:334 admin/plugins-installer.php:106
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:335 admin/dashboard-welcome.php:28
+#: admin/plugins-installer.php:107
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: admin/class-tgm-plugin-activation.php:337 admin/plugins-installer.php:109
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: admin/class-tgm-plugin-activation.php:339 admin/plugins-installer.php:111
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:340 admin/plugins-installer.php:112
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: admin/class-tgm-plugin-activation.php:343 admin/plugins-installer.php:115
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/class-tgm-plugin-activation.php:349 admin/plugins-installer.php:121
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/class-tgm-plugin-activation.php:355 admin/plugins-installer.php:127
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/class-tgm-plugin-activation.php:361 admin/plugins-installer.php:133
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/class-tgm-plugin-activation.php:367 admin/plugins-installer.php:139
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/class-tgm-plugin-activation.php:373 admin/plugins-installer.php:145
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:378 admin/plugins-installer.php:150
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:383 admin/plugins-installer.php:155
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:388 admin/plugins-installer.php:160
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:392 admin/plugins-installer.php:164
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:393
+#: admin/class-tgm-plugin-activation.php:912
+#: admin/class-tgm-plugin-activation.php:2618
+#: admin/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:394
+#: admin/class-tgm-plugin-activation.php:3244 admin/plugins-installer.php:165
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:395
+#: admin/class-tgm-plugin-activation.php:3037 admin/plugins-installer.php:166
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: admin/class-tgm-plugin-activation.php:397 admin/plugins-installer.php:168
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: admin/class-tgm-plugin-activation.php:399 admin/plugins-installer.php:170
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: admin/class-tgm-plugin-activation.php:401 admin/plugins-installer.php:172
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:402 admin/plugins-installer.php:173
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:403 admin/plugins-installer.php:174
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:404 admin/plugins-installer.php:175
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:1019
+#: admin/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:1206
+#: admin/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: admin/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2406
+#: elementor/traits/global-widget-controls.php:322
+#: elementor/traits/global-widget-controls.php:1530
+msgid "Active"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: admin/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: admin/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: admin/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: admin/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: admin/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: admin/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: admin/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: admin/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: admin/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: admin/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: admin/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: admin/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3594
+#: admin/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3594
+#: admin/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: admin/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: admin/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: admin/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/dashboard-welcome.php:11
+msgid "Welcome to Kayleen - Version "
+msgstr ""
+
+#: admin/dashboard-welcome.php:12
+msgid ""
+"Thank you so much to join with Rivax Studio Family. Hope to enjoy the "
+"theme :)"
+msgstr ""
+
+#: admin/dashboard-welcome.php:13
+msgid ""
+"If you interested our theme, Please look at the our other themes on "
+"themeforest."
+msgstr ""
+
+#: admin/dashboard-welcome.php:14
+msgid "Rivax Studio Themes"
+msgstr ""
+
+#: admin/dashboard-welcome.php:26
+msgid "Step 1 : Install Required Plugins"
+msgstr ""
+
+#: admin/dashboard-welcome.php:27
+msgid ""
+"Our theme has some required and optional plugins to function properly. "
+"Please install them."
+msgstr ""
+
+#: admin/dashboard-welcome.php:33
+msgid "Step 2 : Import Demo Content"
+msgstr ""
+
+#: admin/dashboard-welcome.php:34
+msgid ""
+"Importing demo data (post, pages, images, theme settings, etc.) is the "
+"quickest and easiest way to set up your new theme."
+msgstr ""
+
+#: admin/dashboard-welcome.php:35
+msgid "Import Demo"
+msgstr ""
+
+#: admin/dashboard-welcome.php:40
+msgid "Step 3 : Read Theme Documentation"
+msgstr ""
+
+#: admin/dashboard-welcome.php:41
+msgid ""
+"Follow our documentation and read the theme setup and configurations to "
+"learn how to use the theme."
+msgstr ""
+
+#: admin/dashboard-welcome.php:42
+msgid "Read Documentation"
+msgstr ""
+
+#: admin/dashboard-welcome.php:47
+msgid "Step 4 : Need Any Help?"
+msgstr ""
+
+#: admin/dashboard-welcome.php:48
+msgid ""
+"If you need any assistance, feel free to contact us and ask your question."
+msgstr ""
+
+#: admin/dashboard-welcome.php:49
+msgid "Ask Question"
+msgstr ""
+
+#: admin/plugins-installer.php:34
+msgid "Rivax Addon"
+msgstr ""
+
+#: admin/plugins-installer.php:41
+msgid "Envato Market"
+msgstr ""
+
+#: admin/plugins-installer.php:48
+msgid "Redux Framework"
+msgstr ""
+
+#: admin/plugins-installer.php:53
+msgid "CMB2"
+msgstr ""
+
+#: admin/plugins-installer.php:58
+msgid "Elementor"
+msgstr ""
+
+#: admin/plugins-installer.php:63
+msgid "One Click Demo Import"
+msgstr ""
+
+#: admin/plugins-installer.php:68
+msgid "Contact Form 7"
+msgstr ""
+
+#: admin/plugins-installer.php:73
+msgid "Mailchimp for WordPress"
+msgstr ""
+
+#: admin/plugins-installer.php:78
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/redux-config.php:43 admin/redux-config.php:44
+msgid "Theme Settings"
+msgstr ""
+
+#: admin/redux-config.php:114
+msgid "Designed by: "
+msgstr ""
+
+#: admin/redux-config.php:129 admin/redux-config.php:800
+#: elementor/widgets/advanced-heading/advanced-heading.php:35
+#: elementor/widgets/divider-heading/divider-heading.php:35
+#: elementor/widgets/offcanvas/offcanvas.php:36
+#: elementor/widgets/site-logo/site-logo.php:36
+#: elementor/widgets/site-logo/site-logo.php:176
+msgid "General"
+msgstr ""
+
+#: admin/redux-config.php:131
+msgid "General settings for site"
+msgstr ""
+
+#: admin/redux-config.php:138 elementor/widgets/site-logo/site-logo.php:15
+msgid "Site Logo"
+msgstr ""
+
+#: admin/redux-config.php:139
+msgid "Select your logo for the header."
+msgstr ""
+
+#: admin/redux-config.php:146
+msgid "Logo Width"
+msgstr ""
+
+#: admin/redux-config.php:147
+msgid "Select the logo width."
+msgstr ""
+
+#: admin/redux-config.php:148
+msgid "Default value: 200"
+msgstr ""
+
+#: admin/redux-config.php:157 admin/redux-config.php:168
+#: admin/redux-config.php:179 admin/redux-config.php:190
+#: admin/redux-config.php:235 admin/redux-config.php:258
+#: admin/redux-config.php:315 admin/redux-config.php:832
+#: admin/redux-config.php:842 admin/redux-config.php:852
+#: admin/redux-config.php:862 admin/redux-config.php:900
+#: admin/redux-config.php:910 admin/redux-config.php:929
+#: admin/redux-config.php:3035 admin/redux-config.php:3043
+#: admin/redux-config.php:3051 admin/redux-config.php:3059
+#: admin/redux-config.php:3067
+msgid "Enable"
+msgstr ""
+
+#: admin/redux-config.php:158 admin/redux-config.php:169
+#: admin/redux-config.php:180 admin/redux-config.php:191
+#: admin/redux-config.php:236 admin/redux-config.php:259
+#: admin/redux-config.php:316 admin/redux-config.php:833
+#: admin/redux-config.php:843 admin/redux-config.php:853
+#: admin/redux-config.php:863 admin/redux-config.php:901
+#: admin/redux-config.php:911 admin/redux-config.php:930
+#: admin/redux-config.php:3036 admin/redux-config.php:3044
+#: admin/redux-config.php:3052 admin/redux-config.php:3060
+#: admin/redux-config.php:3068
+msgid "Disable"
+msgstr ""
+
+#: admin/redux-config.php:159
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: admin/redux-config.php:160
+msgid "Make sidebar sticky."
+msgstr ""
+
+#: admin/redux-config.php:170
+msgid "Preloader"
+msgstr ""
+
+#: admin/redux-config.php:171
+msgid "Show site preloader transition before site loaded."
+msgstr ""
+
+#: admin/redux-config.php:181
+msgid "Smooth Scroll"
+msgstr ""
+
+#: admin/redux-config.php:182
+msgid "Smooth scroll in website."
+msgstr ""
+
+#: admin/redux-config.php:192
+msgid "Full Size Gif Images"
+msgstr ""
+
+#: admin/redux-config.php:193
+msgid ""
+"Use full image size for Gif. It is useful to show gif animation in thumbnail."
+msgstr ""
+
+#: admin/redux-config.php:202
+msgid "Header"
+msgstr ""
+
+#: admin/redux-config.php:204
+msgid "General settings for header"
+msgstr ""
+
+#: admin/redux-config.php:211
+msgid "Site Header Template"
+msgstr ""
+
+#: admin/redux-config.php:212
+msgid "Select header template for your site."
+msgstr ""
+
+#: admin/redux-config.php:215 admin/redux-config.php:274
+#: admin/redux-config.php:308 admin/redux-config.php:402
+#: admin/redux-config.php:435 admin/redux-config.php:467
+#: admin/redux-config.php:513 admin/redux-config.php:814
+#: admin/redux-config.php:825 admin/redux-config.php:2917
+#: admin/redux-config.php:3015
+#, php-format
+msgid ""
+"You can create your custom template in %1$s Rivax Templates %2$s section."
+msgstr ""
+
+#: admin/redux-config.php:223
+msgid "Single Post Header Template"
+msgstr ""
+
+#: admin/redux-config.php:224
+msgid "Select header template for the single post."
+msgstr ""
+
+#: admin/redux-config.php:227
+#, php-format
+msgid ""
+"Default inherit from site header template. You can create your custom "
+"template in %1$s Rivax Templates %2$s section."
+msgstr ""
+
+#: admin/redux-config.php:237
+msgid "Single Post Float Header"
+msgstr ""
+
+#: admin/redux-config.php:238
+msgid "Make header float in single post."
+msgstr ""
+
+#: admin/redux-config.php:246
+msgid "Float Header Glassmorphism"
+msgstr ""
+
+#: admin/redux-config.php:247
+msgid ""
+"Make float header glassmorphism. Set background color opacity lower than 1 "
+"for header. Currently, this feature does not work in Firefox."
+msgstr ""
+
+#: admin/redux-config.php:260
+msgid "Sticky Header"
+msgstr ""
+
+#: admin/redux-config.php:261
+msgid "Enable sticky header for your site."
+msgstr ""
+
+#: admin/redux-config.php:270
+msgid "Site Sticky Header"
+msgstr ""
+
+#: admin/redux-config.php:271
+msgid "Select sticky header for the site."
+msgstr ""
+
+#: admin/redux-config.php:283
+msgid "Sticky Header Glassmorphism"
+msgstr ""
+
+#: admin/redux-config.php:284
+msgid ""
+"Make sticky header glassmorphism. Set background color opacity lower than 1 "
+"for sticky header. Currently, this feature does not work in Firefox."
+msgstr ""
+
+#: admin/redux-config.php:296 inc/theme-setup.php:204
+msgid "Footer"
+msgstr ""
+
+#: admin/redux-config.php:298
+msgid "General settings for footer"
+msgstr ""
+
+#: admin/redux-config.php:304
+msgid "Site Footer"
+msgstr ""
+
+#: admin/redux-config.php:305
+msgid "Select footer for the site."
+msgstr ""
+
+#: admin/redux-config.php:317
+msgid "Back to Top Button"
+msgstr ""
+
+#: admin/redux-config.php:318
+msgid "Enable or disable back to top button."
+msgstr ""
+
+#: admin/redux-config.php:327
+msgid "Back to Top Button Background"
+msgstr ""
+
+#: admin/redux-config.php:338
+msgid "Footer Canvas Menu Background"
+msgstr ""
+
+#: admin/redux-config.php:348
+msgid "Footer Canvas Menu Link Color"
+msgstr ""
+
+#: admin/redux-config.php:358
+msgid "Footer Canvas Menu Link Hover Color"
+msgstr ""
+
+#: admin/redux-config.php:369 inc/theme-setup.php:194
+msgid "Sidebar"
+msgstr ""
+
+#: admin/redux-config.php:371
+msgid "General settings for sidebar"
+msgstr ""
+
+#: admin/redux-config.php:378
+msgid "Single Page Sidebar"
+msgstr ""
+
+#: admin/redux-config.php:383
+msgid "Single Page Sidebar Position"
+msgstr ""
+
+#: admin/redux-config.php:384
+msgid "Select sidebar position for pages."
+msgstr ""
+
+#: admin/redux-config.php:387 admin/redux-config.php:420
+#: admin/redux-config.php:453 admin/redux-config.php:485
+#: admin/redux-config.php:499 elementor/traits/global-widget-controls.php:106
+#: elementor/traits/global-widget-controls.php:2371
+#: elementor/traits/global-widget-controls.php:2630
+#: elementor/widgets/advanced-button/advanced-button.php:140
+#: elementor/widgets/advanced-button/advanced-button.php:350
+#: elementor/widgets/advanced-heading/advanced-heading.php:159
+#: elementor/widgets/category-box/category-box.php:283
+#: elementor/widgets/creative-link/creative-link.php:84
+#: elementor/widgets/current-date/current-date.php:81
+#: elementor/widgets/divider-heading/divider-heading.php:95
+#: elementor/widgets/offcanvas/offcanvas.php:79
+#: elementor/widgets/offcanvas/offcanvas.php:152
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:163
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:193
+#: elementor/widgets/post-elastic/post-elastic.php:176
+#: elementor/widgets/post-elastic/post-elastic.php:209
+#: elementor/widgets/post-kenzo/post-kenzo.php:265
+#: elementor/widgets/post-modern/post-modern.php:172
+#: elementor/widgets/post-modern/post-modern.php:287
+#: elementor/widgets/post-stellar/post-stellar.php:158
+#: elementor/widgets/search/search.php:96
+#: elementor/widgets/site-logo/site-logo.php:126
+#: elementor/widgets/social-icons/social-icons.php:49
+#: elementor/widgets/social-icons/social-icons.php:115
+#: elementor/widgets/tag-cloud/tag-cloud.php:97
+msgid "Left"
+msgstr ""
+
+#: admin/redux-config.php:388 admin/redux-config.php:421
+#: admin/redux-config.php:454 admin/redux-config.php:486
+#: admin/redux-config.php:500 elementor/traits/global-widget-controls.php:114
+#: elementor/traits/global-widget-controls.php:2379
+#: elementor/traits/global-widget-controls.php:2632
+#: elementor/widgets/advanced-button/advanced-button.php:148
+#: elementor/widgets/advanced-button/advanced-button.php:352
+#: elementor/widgets/advanced-heading/advanced-heading.php:167
+#: elementor/widgets/category-box/category-box.php:291
+#: elementor/widgets/creative-link/creative-link.php:92
+#: elementor/widgets/current-date/current-date.php:89
+#: elementor/widgets/divider-heading/divider-heading.php:103
+#: elementor/widgets/offcanvas/offcanvas.php:87
+#: elementor/widgets/offcanvas/offcanvas.php:156
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:167
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:201
+#: elementor/widgets/post-elastic/post-elastic.php:180
+#: elementor/widgets/post-elastic/post-elastic.php:217
+#: elementor/widgets/post-kenzo/post-kenzo.php:273
+#: elementor/widgets/post-modern/post-modern.php:180
+#: elementor/widgets/post-modern/post-modern.php:295
+#: elementor/widgets/post-stellar/post-stellar.php:166
+#: elementor/widgets/search/search.php:104
+#: elementor/widgets/site-logo/site-logo.php:134
+#: elementor/widgets/social-icons/social-icons.php:63
+#: elementor/widgets/social-icons/social-icons.php:123
+#: elementor/widgets/tag-cloud/tag-cloud.php:105
+msgid "Right"
+msgstr ""
+
+#: admin/redux-config.php:389 admin/redux-config.php:422
+#: admin/redux-config.php:455 admin/redux-config.php:487
+#: admin/redux-config.php:501
+msgid "No Sidebar"
+msgstr ""
+
+#: admin/redux-config.php:390 admin/redux-config.php:423
+msgid "No Sidebar + Narrow Content"
+msgstr ""
+
+#: admin/redux-config.php:398
+msgid "Single Page Sidebar Template"
+msgstr ""
+
+#: admin/redux-config.php:399 admin/redux-config.php:432
+#: admin/redux-config.php:464 admin/redux-config.php:510
+msgid "Select template for this sidebar."
+msgstr ""
+
+#: admin/redux-config.php:411
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: admin/redux-config.php:416
+msgid "Single Post Sidebar Position"
+msgstr ""
+
+#: admin/redux-config.php:417
+msgid "Select sidebar position for single post."
+msgstr ""
+
+#: admin/redux-config.php:431
+msgid "Single Post Sidebar Template"
+msgstr ""
+
+#: admin/redux-config.php:444
+msgid "Blog Sidebar"
+msgstr ""
+
+#: admin/redux-config.php:449
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: admin/redux-config.php:450
+msgid "Select sidebar position for blog archive."
+msgstr ""
+
+#: admin/redux-config.php:463
+msgid "Blog Sidebar Template"
+msgstr ""
+
+#: admin/redux-config.php:476
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: admin/redux-config.php:481
+msgid "Woocommerce Shop Sidebar Position"
+msgstr ""
+
+#: admin/redux-config.php:482
+msgid "Select sidebar position for woocommerce shop."
+msgstr ""
+
+#: admin/redux-config.php:495
+msgid "Woocommerce Archive Sidebar Position"
+msgstr ""
+
+#: admin/redux-config.php:496
+msgid "Select sidebar position for woocommerce archive."
+msgstr ""
+
+#: admin/redux-config.php:509
+msgid "Woocommerce Sidebar Template"
+msgstr ""
+
+#: admin/redux-config.php:524
+msgid "Styling"
+msgstr ""
+
+#: admin/redux-config.php:526
+msgid "Styling settings"
+msgstr ""
+
+#: admin/redux-config.php:533
+msgid "Accent Color"
+msgstr ""
+
+#: admin/redux-config.php:543
+msgid "Accent Color Alternative"
+msgstr ""
+
+#: admin/redux-config.php:553
+msgid "Second Color"
+msgstr ""
+
+#: admin/redux-config.php:563
+msgid "Second Color Alternative"
+msgstr ""
+
+#: admin/redux-config.php:573
+msgid "Body Background Color"
+msgstr ""
+
+#: admin/redux-config.php:583
+msgid "Body Text Color"
+msgstr ""
+
+#: admin/redux-config.php:593
+msgid "Links Color"
+msgstr ""
+
+#: admin/redux-config.php:603
+msgid "Links Hover Color"
+msgstr ""
+
+#: admin/redux-config.php:613
+msgid "Headings Color"
+msgstr ""
+
+#: admin/redux-config.php:623
+msgid "Single Post Progress Bar Color"
+msgstr ""
+
+#: admin/redux-config.php:634
+msgid "Single Post Category Background"
+msgstr ""
+
+#: admin/redux-config.php:645
+msgid "Single Post Category Background Hover"
+msgstr ""
+
+#: admin/redux-config.php:659 elementor/traits/global-widget-controls.php:1674
+#: elementor/traits/global-widget-controls.php:1861
+#: elementor/traits/global-widget-controls.php:1924
+#: elementor/traits/global-widget-controls.php:2016
+#: elementor/traits/global-widget-controls.php:2232
+#: elementor/traits/global-widget-controls.php:2430
+#: elementor/traits/global-widget-controls.php:2509
+#: elementor/widgets/advanced-button/advanced-button.php:196
+#: elementor/widgets/advanced-button/advanced-button.php:249
+#: elementor/widgets/category-box/category-box.php:782
+#: elementor/widgets/category-box/category-box.php:991
+#: elementor/widgets/creative-link/creative-link.php:166
+#: elementor/widgets/current-date/current-date.php:349
+#: elementor/widgets/current-date/current-date.php:437
+#: elementor/widgets/navigation/navigation.php:147
+#: elementor/widgets/navigation/navigation.php:165
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:559
+#: elementor/widgets/post-elastic/post-elastic.php:567
+#: elementor/widgets/post-kenzo/post-kenzo.php:560
+#: elementor/widgets/post-modern/post-modern.php:800
+#: elementor/widgets/post-modern/post-modern.php:962
+#: elementor/widgets/post-stellar/post-stellar.php:378
+#: elementor/widgets/search/search.php:409
+#: elementor/widgets/social-icons/social-icons.php:764
+#: elementor/widgets/social-icons/social-icons.php:859
+#: elementor/widgets/tag-cloud/tag-cloud.php:394
+#: elementor/widgets/tag-cloud/tag-cloud.php:484
+msgid "Typography"
+msgstr ""
+
+#: admin/redux-config.php:661
+msgid "Typography settings"
+msgstr ""
+
+#: admin/redux-config.php:674
+msgid "Body Typography"
+msgstr ""
+
+#: admin/redux-config.php:686
+msgid "Headings Typography"
+msgstr ""
+
+#: admin/redux-config.php:692
+#: elementor/widgets/current-date/current-date.php:205
+msgid "Font Size"
+msgstr ""
+
+#: admin/redux-config.php:697
+msgid "H1 Font Size"
+msgstr ""
+
+#: admin/redux-config.php:698 admin/redux-config.php:747
+msgid "Enter H1 font size. Example: 28px or 1.8rem"
+msgstr ""
+
+#: admin/redux-config.php:703
+msgid "H2 Font Size"
+msgstr ""
+
+#: admin/redux-config.php:704 admin/redux-config.php:753
+msgid "Enter H2 font size. Example: 28px or 1.8rem"
+msgstr ""
+
+#: admin/redux-config.php:709
+msgid "H3 Font Size"
+msgstr ""
+
+#: admin/redux-config.php:710 admin/redux-config.php:759
+msgid "Enter H3 font size. Example: 28px or 1.8rem"
+msgstr ""
+
+#: admin/redux-config.php:715
+msgid "H4 Font Size"
+msgstr ""
+
+#: admin/redux-config.php:716 admin/redux-config.php:765
+msgid "Enter H4 font size. Example: 28px or 1.8rem"
+msgstr ""
+
+#: admin/redux-config.php:721
+msgid "H5 Font Size"
+msgstr ""
+
+#: admin/redux-config.php:722 admin/redux-config.php:771
+msgid "Enter H5 font size. Example: 28px or 1.8rem"
+msgstr ""
+
+#: admin/redux-config.php:727
+msgid "H6 Font Size"
+msgstr ""
+
+#: admin/redux-config.php:728 admin/redux-config.php:777
+msgid "Enter H6 font size. Example: 28px or 1.8rem"
+msgstr ""
+
+#: admin/redux-config.php:733
+msgid "Single Post Title Font Size"
+msgstr ""
+
+#: admin/redux-config.php:734 admin/redux-config.php:783
+msgid "Enter font size. Example: 28px or 1.8rem"
+msgstr ""
+
+#: admin/redux-config.php:741
+msgid "Font Size In Responsive"
+msgstr ""
+
+#: admin/redux-config.php:746
+msgid "H1 Font Size In Mobile And Tablet"
+msgstr ""
+
+#: admin/redux-config.php:752
+msgid "H2 Font Size In Mobile And Tablet"
+msgstr ""
+
+#: admin/redux-config.php:758
+msgid "H3 Font Size In Mobile And Tablet"
+msgstr ""
+
+#: admin/redux-config.php:764
+msgid "H4 Font Size In Mobile And Tablet"
+msgstr ""
+
+#: admin/redux-config.php:770
+msgid "H5 Font Size In Mobile And Tablet"
+msgstr ""
+
+#: admin/redux-config.php:776
+msgid "H6 Font Size In Mobile And Tablet"
+msgstr ""
+
+#: admin/redux-config.php:782
+msgid "Single Post Title Font Size In Mobile And Tablet"
+msgstr ""
+
+#: admin/redux-config.php:791
+msgid "Single Post"
+msgstr ""
+
+#: admin/redux-config.php:793
+msgid "Single Post settings"
+msgstr ""
+
+#: admin/redux-config.php:802
+msgid "Single Post general settings"
+msgstr ""
+
+#: admin/redux-config.php:810 elementor/widgets/post-modern/post-modern.php:362
+#: elementor/widgets/post-modern/post-modern.php:872
+msgid "Top Content"
+msgstr ""
+
+#: admin/redux-config.php:811
+msgid "Select template to show in top of the post."
+msgstr ""
+
+#: admin/redux-config.php:821
+msgid "Bottom Content"
+msgstr ""
+
+#: admin/redux-config.php:822
+msgid "Select template to show in bottom of the post."
+msgstr ""
+
+#: admin/redux-config.php:834
+msgid "Category Multi Background"
+msgstr ""
+
+#: admin/redux-config.php:835
+msgid "Edit category and set its color."
+msgstr ""
+
+#: admin/redux-config.php:844
+msgid "Reading Progress Indicator"
+msgstr ""
+
+#: admin/redux-config.php:845
+msgid "Show reading progress indicator in post."
+msgstr ""
+
+#: admin/redux-config.php:854
+msgid "Comments List Collapsable"
+msgstr ""
+
+#: admin/redux-config.php:855
+msgid "Makes comments list collapsable with show/hide button."
+msgstr ""
+
+#: admin/redux-config.php:864
+msgid "Show Share Box"
+msgstr ""
+
+#: admin/redux-config.php:865
+msgid "Show share box in the single post."
+msgstr ""
+
+#: admin/redux-config.php:873
+msgid "Share Box Options"
+msgstr ""
+
+#: admin/redux-config.php:874
+msgid "Select share box options."
+msgstr ""
+
+#: admin/redux-config.php:877
+#: elementor/widgets/social-icons/social-icons.php:214
+msgid "Facebook"
+msgstr ""
+
+#: admin/redux-config.php:878
+#: elementor/widgets/social-icons/social-icons.php:215
+msgid "Twitter"
+msgstr ""
+
+#: admin/redux-config.php:879
+#: elementor/widgets/social-icons/social-icons.php:216
+msgid "Linkedin"
+msgstr ""
+
+#: admin/redux-config.php:880
+#: elementor/widgets/social-icons/social-icons.php:219
+msgid "Pinterest"
+msgstr ""
+
+#: admin/redux-config.php:881
+#: elementor/widgets/social-icons/social-icons.php:221
+msgid "Telegram"
+msgstr ""
+
+#: admin/redux-config.php:882 comments.php:82
+msgid "Email"
+msgstr ""
+
+#: admin/redux-config.php:883
+msgid "WhatsApp"
+msgstr ""
+
+#: admin/redux-config.php:884
+msgid "Link Box"
+msgstr ""
+
+#: admin/redux-config.php:902
+msgid "Show Author Box"
+msgstr ""
+
+#: admin/redux-config.php:903
+msgid "Show author box in the single post."
+msgstr ""
+
+#: admin/redux-config.php:912
+msgid "Show Next And Previews Posts"
+msgstr ""
+
+#: admin/redux-config.php:913
+msgid "Show next and previews posts in the single post."
+msgstr ""
+
+#: admin/redux-config.php:921
+msgid "Next And Previews Posts Title"
+msgstr ""
+
+#: admin/redux-config.php:922
+msgid "Enter your title for the next and previews posts."
+msgstr ""
+
+#: admin/redux-config.php:923
+msgid "Default value: Other Articles"
+msgstr ""
+
+#: admin/redux-config.php:924
+msgid "Other Articles"
+msgstr ""
+
+#: admin/redux-config.php:931
+msgid "Show Fixed Next And Previews Posts"
+msgstr ""
+
+#: admin/redux-config.php:932
+msgid "Show fixed next and previews posts in the single post."
+msgstr ""
+
+#: admin/redux-config.php:939
+msgid "Reading Time Words Per Minute"
+msgstr ""
+
+#: admin/redux-config.php:940
+msgid "How many words user can read per minute?"
+msgstr ""
+
+#: admin/redux-config.php:941
+msgid "Default value: 255"
+msgstr ""
+
+#: admin/redux-config.php:954
+msgid "Hero Layout"
+msgstr ""
+
+#: admin/redux-config.php:956
+msgid "Single post hero layout settings"
+msgstr ""
+
+#: admin/redux-config.php:963
+msgid "Default Post Meta"
+msgstr ""
+
+#: admin/redux-config.php:964
+msgid "Select default meta for single post."
+msgstr ""
+
+#: admin/redux-config.php:967 admin/redux-config.php:1060
+#: admin/redux-config.php:1137 admin/redux-config.php:1215
+#: admin/redux-config.php:1293 admin/redux-config.php:1357
+#: admin/redux-config.php:1421 admin/redux-config.php:1496
+#: admin/redux-config.php:1571 admin/redux-config.php:1635
+#: admin/redux-config.php:1713 admin/redux-config.php:1759
+#: admin/redux-config.php:1796 admin/redux-config.php:1833
+#: admin/redux-config.php:1910 admin/redux-config.php:1947
+#: admin/redux-config.php:1995 admin/redux-config.php:2061
+#: admin/redux-config.php:2098 admin/redux-config.php:2153
+#: admin/redux-config.php:2208 admin/redux-config.php:2254
+#: admin/redux-config.php:2318 admin/redux-config.php:2382
+#: admin/redux-config.php:2437 admin/redux-config.php:2510
+#: admin/redux-config.php:2583
+msgid "Author Name"
+msgstr ""
+
+#: admin/redux-config.php:968 admin/redux-config.php:1061
+#: admin/redux-config.php:1138 admin/redux-config.php:1216
+#: admin/redux-config.php:1294 admin/redux-config.php:1358
+#: admin/redux-config.php:1422 admin/redux-config.php:1497
+#: admin/redux-config.php:1572 admin/redux-config.php:1636
+#: admin/redux-config.php:1714 admin/redux-config.php:1760
+#: admin/redux-config.php:1797 admin/redux-config.php:1834
+#: admin/redux-config.php:1911 admin/redux-config.php:1948
+#: admin/redux-config.php:1996 admin/redux-config.php:2062
+#: admin/redux-config.php:2099 admin/redux-config.php:2154
+#: admin/redux-config.php:2209 admin/redux-config.php:2255
+#: admin/redux-config.php:2319 admin/redux-config.php:2383
+#: admin/redux-config.php:2438 admin/redux-config.php:2511
+#: admin/redux-config.php:2584
+msgid "Author Avatar"
+msgstr ""
+
+#: admin/redux-config.php:969 admin/redux-config.php:1062
+#: admin/redux-config.php:1139 admin/redux-config.php:1217
+#: admin/redux-config.php:1295 admin/redux-config.php:1359
+#: admin/redux-config.php:1423 admin/redux-config.php:1498
+#: admin/redux-config.php:1573 admin/redux-config.php:1637
+#: admin/redux-config.php:1715 admin/redux-config.php:1761
+#: admin/redux-config.php:1798 admin/redux-config.php:1835
+#: admin/redux-config.php:1912 admin/redux-config.php:1949
+#: admin/redux-config.php:1997 admin/redux-config.php:2063
+#: admin/redux-config.php:2100 admin/redux-config.php:2155
+#: admin/redux-config.php:2210 admin/redux-config.php:2256
+#: admin/redux-config.php:2320 admin/redux-config.php:2384
+#: admin/redux-config.php:2439 admin/redux-config.php:2512
+#: admin/redux-config.php:2585 elementor/traits/global-widget-controls.php:1692
+#: elementor/traits/group-control-query.php:227
+#: elementor/traits/group-control-query.php:279
+#: elementor/widgets/current-date/current-date.php:360
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:567
+msgid "Date"
+msgstr ""
+
+#: admin/redux-config.php:970 admin/redux-config.php:1063
+#: admin/redux-config.php:1140 admin/redux-config.php:1218
+#: admin/redux-config.php:1296 admin/redux-config.php:1360
+#: admin/redux-config.php:1424 admin/redux-config.php:1499
+#: admin/redux-config.php:1574 admin/redux-config.php:1638
+#: admin/redux-config.php:1716 admin/redux-config.php:1762
+#: admin/redux-config.php:1799 admin/redux-config.php:1836
+#: admin/redux-config.php:1913 admin/redux-config.php:1950
+#: admin/redux-config.php:1998 admin/redux-config.php:2064
+#: admin/redux-config.php:2101 admin/redux-config.php:2156
+#: admin/redux-config.php:2211 admin/redux-config.php:2257
+#: admin/redux-config.php:2321 admin/redux-config.php:2385
+#: admin/redux-config.php:2440 admin/redux-config.php:2513
+#: admin/redux-config.php:2586
+#: elementor/widgets/category-box/category-box.php:146
+msgid "Category"
+msgstr ""
+
+#: admin/redux-config.php:971 admin/redux-config.php:1064
+#: admin/redux-config.php:1141 admin/redux-config.php:1219
+#: admin/redux-config.php:1297 admin/redux-config.php:1361
+#: admin/redux-config.php:1425 admin/redux-config.php:1500
+#: admin/redux-config.php:1575 admin/redux-config.php:1639
+#: admin/redux-config.php:1717 admin/redux-config.php:1763
+#: admin/redux-config.php:1800 admin/redux-config.php:1837
+#: admin/redux-config.php:1914 admin/redux-config.php:1951
+#: admin/redux-config.php:1999 admin/redux-config.php:2065
+#: admin/redux-config.php:2102 admin/redux-config.php:2157
+#: admin/redux-config.php:2212 admin/redux-config.php:2258
+#: admin/redux-config.php:2322 admin/redux-config.php:2386
+#: admin/redux-config.php:2441 admin/redux-config.php:2514
+#: admin/redux-config.php:2587
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:257
+#: elementor/widgets/post-modern/post-modern.php:350
+#: elementor/widgets/post-modern/post-modern.php:368
+#: elementor/widgets/post-modern/post-modern.php:1052
+msgid "Comments"
+msgstr ""
+
+#: admin/redux-config.php:972 admin/redux-config.php:1065
+#: admin/redux-config.php:1142 admin/redux-config.php:1220
+#: admin/redux-config.php:1298 admin/redux-config.php:1362
+#: admin/redux-config.php:1426 admin/redux-config.php:1501
+#: admin/redux-config.php:1576 admin/redux-config.php:1640
+#: admin/redux-config.php:1718 admin/redux-config.php:1764
+#: admin/redux-config.php:1801 admin/redux-config.php:1838
+#: admin/redux-config.php:1915 admin/redux-config.php:1952
+#: admin/redux-config.php:2000 admin/redux-config.php:2066
+#: admin/redux-config.php:2103 admin/redux-config.php:2158
+#: admin/redux-config.php:2213 admin/redux-config.php:2259
+#: admin/redux-config.php:2323 admin/redux-config.php:2387
+#: admin/redux-config.php:2442 admin/redux-config.php:2515
+#: admin/redux-config.php:2588
+#: elementor/widgets/post-modern/post-modern.php:376
+#: elementor/widgets/post-modern/post-modern.php:1056
+#: template-parts/post/hero/content-20.php:34
+#: template-parts/post/hero/content-21.php:36
+#: template-parts/post/hero/content-22.php:33
+#: template-parts/post/hero/title-section-1.php:91
+#: template-parts/post/hero/title-section-1.php:94
+#: template-parts/post/hero/title-section-2.php:88
+msgid "Views"
+msgstr ""
+
+#: admin/redux-config.php:973 admin/redux-config.php:1066
+#: admin/redux-config.php:1143 admin/redux-config.php:1221
+#: admin/redux-config.php:1299 admin/redux-config.php:1363
+#: admin/redux-config.php:1427 admin/redux-config.php:1502
+#: admin/redux-config.php:1577 admin/redux-config.php:1641
+#: admin/redux-config.php:1719 admin/redux-config.php:1765
+#: admin/redux-config.php:1802 admin/redux-config.php:1839
+#: admin/redux-config.php:1916 admin/redux-config.php:1953
+#: admin/redux-config.php:2001 admin/redux-config.php:2067
+#: admin/redux-config.php:2104 admin/redux-config.php:2159
+#: admin/redux-config.php:2214 admin/redux-config.php:2260
+#: admin/redux-config.php:2324 admin/redux-config.php:2388
+#: admin/redux-config.php:2443 admin/redux-config.php:2516
+#: admin/redux-config.php:2589
+#: elementor/widgets/post-modern/post-modern.php:384
+#: elementor/widgets/post-modern/post-modern.php:1060
+msgid "Reading Time"
+msgstr ""
+
+#: admin/redux-config.php:974 admin/redux-config.php:1067
+#: admin/redux-config.php:1144 admin/redux-config.php:1222
+#: admin/redux-config.php:1300 admin/redux-config.php:1364
+#: admin/redux-config.php:1428 admin/redux-config.php:1503
+#: admin/redux-config.php:1578 admin/redux-config.php:1642
+#: admin/redux-config.php:1720 admin/redux-config.php:1766
+#: admin/redux-config.php:1803 admin/redux-config.php:1840
+#: admin/redux-config.php:1917 admin/redux-config.php:1954
+#: admin/redux-config.php:2002 admin/redux-config.php:2068
+#: admin/redux-config.php:2105 admin/redux-config.php:2160
+#: admin/redux-config.php:2215 admin/redux-config.php:2261
+#: admin/redux-config.php:2325 admin/redux-config.php:2389
+#: admin/redux-config.php:2444 admin/redux-config.php:2517
+#: admin/redux-config.php:2590 elementor/traits/global-widget-controls.php:2186
+#: elementor/traits/global-widget-controls.php:2212
+msgid "Excerpt"
+msgstr ""
+
+#: admin/redux-config.php:992
+msgid "Standard Post Format"
+msgstr ""
+
+#: admin/redux-config.php:997
+msgid "Standard Post Layout"
+msgstr ""
+
+#: admin/redux-config.php:998
+msgid ""
+"Select default layout for standard posts. You can customize settings for "
+"each layout below."
+msgstr ""
+
+#: admin/redux-config.php:1001
+msgid "Layout 1"
+msgstr ""
+
+#: admin/redux-config.php:1002
+msgid "Layout 2"
+msgstr ""
+
+#: admin/redux-config.php:1003
+msgid "Layout 3"
+msgstr ""
+
+#: admin/redux-config.php:1004
+msgid "Layout 4"
+msgstr ""
+
+#: admin/redux-config.php:1005
+msgid "Layout 5"
+msgstr ""
+
+#: admin/redux-config.php:1006
+msgid "Layout 6"
+msgstr ""
+
+#: admin/redux-config.php:1007
+msgid "Layout 7"
+msgstr ""
+
+#: admin/redux-config.php:1008
+msgid "Layout 8"
+msgstr ""
+
+#: admin/redux-config.php:1009
+msgid "Layout 9"
+msgstr ""
+
+#: admin/redux-config.php:1010
+msgid "Layout 10"
+msgstr ""
+
+#: admin/redux-config.php:1011
+msgid "Layout 11"
+msgstr ""
+
+#: admin/redux-config.php:1012
+msgid "Layout 12"
+msgstr ""
+
+#: admin/redux-config.php:1013
+msgid "Layout 13"
+msgstr ""
+
+#: admin/redux-config.php:1014
+msgid "Layout 14"
+msgstr ""
+
+#: admin/redux-config.php:1015
+msgid "Layout 15"
+msgstr ""
+
+#: admin/redux-config.php:1016
+msgid "Layout 16"
+msgstr ""
+
+#: admin/redux-config.php:1017
+msgid "Layout 17"
+msgstr ""
+
+#: admin/redux-config.php:1018
+msgid "Layout 18"
+msgstr ""
+
+#: admin/redux-config.php:1019
+msgid "Layout 19"
+msgstr ""
+
+#: admin/redux-config.php:1020
+msgid "Layout 20"
+msgstr ""
+
+#: admin/redux-config.php:1021
+msgid "Layout 21"
+msgstr ""
+
+#: admin/redux-config.php:1022
+msgid "Layout 22"
+msgstr ""
+
+#: admin/redux-config.php:1023
+msgid "Layout 23"
+msgstr ""
+
+#: admin/redux-config.php:1024
+msgid "Layout 24"
+msgstr ""
+
+#: admin/redux-config.php:1025
+msgid "Layout 25"
+msgstr ""
+
+#: admin/redux-config.php:1026
+msgid "Layout 26"
+msgstr ""
+
+#: admin/redux-config.php:1036
+msgid "Layout 1 Settings"
+msgstr ""
+
+#: admin/redux-config.php:1042 admin/redux-config.php:1119
+#: admin/redux-config.php:1197 admin/redux-config.php:1275
+#: admin/redux-config.php:1695
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:159
+#: elementor/widgets/post-elastic/post-elastic.php:172
+msgid "Image Position"
+msgstr ""
+
+#: admin/redux-config.php:1043 admin/redux-config.php:1120
+#: admin/redux-config.php:1198 admin/redux-config.php:1276
+#: admin/redux-config.php:1696
+msgid "Select image position."
+msgstr ""
+
+#: admin/redux-config.php:1046 admin/redux-config.php:1123
+#: admin/redux-config.php:1201 admin/redux-config.php:1279
+#: admin/redux-config.php:1699 admin/redux-config.php:2654
+#: admin/redux-config.php:2703 admin/redux-config.php:2787
+#: admin/redux-config.php:2856 admin/redux-config.php:2889
+msgid "Before Meta"
+msgstr ""
+
+#: admin/redux-config.php:1047 admin/redux-config.php:1124
+#: admin/redux-config.php:1202 admin/redux-config.php:1280
+#: admin/redux-config.php:1700 admin/redux-config.php:2655
+#: admin/redux-config.php:2704 admin/redux-config.php:2788
+#: admin/redux-config.php:2857 admin/redux-config.php:2890
+msgid "After Meta"
+msgstr ""
+
+#: admin/redux-config.php:1056 admin/redux-config.php:1133
+#: admin/redux-config.php:1211 admin/redux-config.php:1289
+#: admin/redux-config.php:1353 admin/redux-config.php:1417
+#: admin/redux-config.php:1492 admin/redux-config.php:1567
+#: admin/redux-config.php:1631 admin/redux-config.php:1709
+#: admin/redux-config.php:1755 admin/redux-config.php:1792
+#: admin/redux-config.php:1829 admin/redux-config.php:1906
+#: admin/redux-config.php:1943 admin/redux-config.php:1991
+#: admin/redux-config.php:2057 admin/redux-config.php:2094
+#: admin/redux-config.php:2149 admin/redux-config.php:2204
+#: admin/redux-config.php:2250 admin/redux-config.php:2314
+#: admin/redux-config.php:2378 admin/redux-config.php:2433
+#: admin/redux-config.php:2506 admin/redux-config.php:2579
+msgid "Post Meta"
+msgstr ""
+
+#: admin/redux-config.php:1057 admin/redux-config.php:1134
+#: admin/redux-config.php:1212 admin/redux-config.php:1290
+#: admin/redux-config.php:1354 admin/redux-config.php:1418
+#: admin/redux-config.php:1493 admin/redux-config.php:1568
+#: admin/redux-config.php:1632 admin/redux-config.php:1710
+#: admin/redux-config.php:1756 admin/redux-config.php:1793
+#: admin/redux-config.php:1830 admin/redux-config.php:1907
+#: admin/redux-config.php:1944 admin/redux-config.php:1992
+#: admin/redux-config.php:2058 admin/redux-config.php:2095
+#: admin/redux-config.php:2150 admin/redux-config.php:2205
+#: admin/redux-config.php:2251 admin/redux-config.php:2315
+#: admin/redux-config.php:2379 admin/redux-config.php:2434
+#: admin/redux-config.php:2507 admin/redux-config.php:2580
+msgid "Select post meta for this layout."
+msgstr ""
+
+#: admin/redux-config.php:1084 admin/redux-config.php:1161
+#: admin/redux-config.php:1239 admin/redux-config.php:1317
+#: admin/redux-config.php:1381 admin/redux-config.php:1456
+#: admin/redux-config.php:1531 admin/redux-config.php:1595
+#: admin/redux-config.php:1659 admin/redux-config.php:1737
+msgid "Full Image Size"
+msgstr ""
+
+#: admin/redux-config.php:1093 admin/redux-config.php:1170
+#: admin/redux-config.php:1248 admin/redux-config.php:1326
+#: admin/redux-config.php:1390 admin/redux-config.php:1465
+#: admin/redux-config.php:1540 admin/redux-config.php:1604
+#: admin/redux-config.php:1668 admin/redux-config.php:1879
+#: admin/redux-config.php:2030 admin/redux-config.php:2122
+#: admin/redux-config.php:2177 admin/redux-config.php:2278
+#: admin/redux-config.php:2342 admin/redux-config.php:2461
+#: admin/redux-config.php:2534 admin/redux-config.php:2618
+#: admin/redux-config.php:2663
+msgid "Image Radius"
+msgstr ""
+
+#: admin/redux-config.php:1102 admin/redux-config.php:1179
+#: admin/redux-config.php:1257 admin/redux-config.php:1335
+#: admin/redux-config.php:1399 admin/redux-config.php:1474
+#: admin/redux-config.php:1549 admin/redux-config.php:1613
+#: admin/redux-config.php:1677 admin/redux-config.php:1888
+#: admin/redux-config.php:2039 admin/redux-config.php:2131
+#: admin/redux-config.php:2186 admin/redux-config.php:2287
+#: admin/redux-config.php:2351 admin/redux-config.php:2470
+#: admin/redux-config.php:2543 admin/redux-config.php:2671
+msgid "Image Shadow"
+msgstr ""
+
+#: admin/redux-config.php:1113
+msgid "Layout 2 Settings"
+msgstr ""
+
+#: admin/redux-config.php:1191
+msgid "Layout 3 Settings"
+msgstr ""
+
+#: admin/redux-config.php:1269
+msgid "Layout 4 Settings"
+msgstr ""
+
+#: admin/redux-config.php:1347
+msgid "Layout 5 Settings"
+msgstr ""
+
+#: admin/redux-config.php:1411
+msgid "Layout 6 Settings"
+msgstr ""
+
+#: admin/redux-config.php:1446 admin/redux-config.php:1521
+#: admin/redux-config.php:1858 admin/redux-config.php:1972
+#: admin/redux-config.php:2020 admin/redux-config.php:2608
+#: elementor/traits/global-widget-controls.php:204
+#: elementor/traits/global-widget-controls.php:278
+#: elementor/traits/global-widget-controls.php:332
+#: elementor/widgets/site-logo/site-logo.php:184
+msgid "Background Color"
+msgstr ""
+
+#: admin/redux-config.php:1447 admin/redux-config.php:1522
+#: admin/redux-config.php:1859 admin/redux-config.php:1973
+#: admin/redux-config.php:2021 admin/redux-config.php:2609
+#: admin/redux-config.php:2745 admin/redux-config.php:2814
+msgid "Choose background color."
+msgstr ""
+
+#: admin/redux-config.php:1486
+msgid "Layout 7 Settings"
+msgstr ""
+
+#: admin/redux-config.php:1561
+msgid "Layout 8 Settings"
+msgstr ""
+
+#: admin/redux-config.php:1625
+msgid "Layout 9 Settings"
+msgstr ""
+
+#: admin/redux-config.php:1689
+msgid "Layout 10 Settings"
+msgstr ""
+
+#: admin/redux-config.php:1749
+msgid "Layout 11 (No Image) Settings"
+msgstr ""
+
+#: admin/redux-config.php:1786
+msgid "Layout 12 (No Image) Settings"
+msgstr ""
+
+#: admin/redux-config.php:1823
+msgid "Layout 13 Settings"
+msgstr ""
+
+#: admin/redux-config.php:1869
+msgid "Text Color"
+msgstr ""
+
+#: admin/redux-config.php:1870 admin/redux-config.php:2755
+#: admin/redux-config.php:2824
+msgid "Choose text color."
+msgstr ""
+
+#: admin/redux-config.php:1900
+msgid "Layout 14 Settings"
+msgstr ""
+
+#: admin/redux-config.php:1937
+msgid "Layout 15 Settings"
+msgstr ""
+
+#: admin/redux-config.php:1985
+msgid "Layout 16 Settings"
+msgstr ""
+
+#: admin/redux-config.php:2051
+msgid "Layout 17 Settings"
+msgstr ""
+
+#: admin/redux-config.php:2088
+msgid "Layout 18 Settings"
+msgstr ""
+
+#: admin/redux-config.php:2143
+msgid "Layout 19 Settings"
+msgstr ""
+
+#: admin/redux-config.php:2198
+msgid "Layout 20 Settings"
+msgstr ""
+
+#: admin/redux-config.php:2232 admin/redux-config.php:2296
+#: admin/redux-config.php:2360 admin/redux-config.php:2406
+#: admin/redux-config.php:2479 admin/redux-config.php:2552
+msgid "Title Background"
+msgstr ""
+
+#: admin/redux-config.php:2244
+msgid "Layout 21 Settings"
+msgstr ""
+
+#: admin/redux-config.php:2308
+msgid "Layout 22 Settings"
+msgstr ""
+
+#: admin/redux-config.php:2372
+msgid "Layout 23 Settings"
+msgstr ""
+
+#: admin/redux-config.php:2415 admin/redux-config.php:2488
+#: admin/redux-config.php:2561
+msgid "Title Center"
+msgstr ""
+
+#: admin/redux-config.php:2427
+msgid "Layout 24 Settings"
+msgstr ""
+
+#: admin/redux-config.php:2500
+msgid "Layout 25 Settings"
+msgstr ""
+
+#: admin/redux-config.php:2573
+msgid "Layout 26 Settings"
+msgstr ""
+
+#: admin/redux-config.php:2632
+msgid "Gallery Post Format"
+msgstr ""
+
+#: admin/redux-config.php:2637
+msgid "Gallery Position"
+msgstr ""
+
+#: admin/redux-config.php:2638 admin/redux-config.php:2651
+msgid "Select gallery position."
+msgstr ""
+
+#: admin/redux-config.php:2641 admin/redux-config.php:2690
+#: admin/redux-config.php:2774 admin/redux-config.php:2843
+#: admin/redux-config.php:2876
+msgid "Inside content"
+msgstr ""
+
+#: admin/redux-config.php:2642 admin/redux-config.php:2691
+#: admin/redux-config.php:2775 admin/redux-config.php:2844
+#: admin/redux-config.php:2877
+msgid "Outside Content"
+msgstr ""
+
+#: admin/redux-config.php:2650
+msgid "Gallery Position To Meta"
+msgstr ""
+
+#: admin/redux-config.php:2681
+msgid "Quote Post Format"
+msgstr ""
+
+#: admin/redux-config.php:2686
+msgid "Quote Position"
+msgstr ""
+
+#: admin/redux-config.php:2687 admin/redux-config.php:2700
+msgid "Select quote position."
+msgstr ""
+
+#: admin/redux-config.php:2699
+msgid "Quote Position To Meta"
+msgstr ""
+
+#: admin/redux-config.php:2712
+msgid "Quote Style"
+msgstr ""
+
+#: admin/redux-config.php:2713
+msgid "Select quote style."
+msgstr ""
+
+#: admin/redux-config.php:2716 elementor/traits/global-widget-controls.php:880
+#: elementor/traits/global-widget-controls.php:2299
+#: elementor/traits/global-widget-controls.php:2314
+#: elementor/widgets/advanced-button/advanced-button.php:46
+#: elementor/widgets/advanced-button/advanced-button.php:83
+#: elementor/widgets/divider-heading/divider-heading.php:529
+#: elementor/widgets/navigation/navigation.php:298
+#: elementor/widgets/post-kenzo/post-kenzo.php:237
+#: elementor/widgets/post-stellar/post-stellar.php:130
+#: elementor/widgets/search/search.php:60
+msgid "Style 1"
+msgstr ""
+
+#: admin/redux-config.php:2717 elementor/traits/global-widget-controls.php:881
+#: elementor/traits/global-widget-controls.php:2300
+#: elementor/traits/global-widget-controls.php:2315
+#: elementor/widgets/advanced-button/advanced-button.php:47
+#: elementor/widgets/advanced-button/advanced-button.php:84
+#: elementor/widgets/divider-heading/divider-heading.php:530
+#: elementor/widgets/navigation/navigation.php:299
+#: elementor/widgets/post-kenzo/post-kenzo.php:238
+#: elementor/widgets/post-stellar/post-stellar.php:131
+#: elementor/widgets/search/search.php:61
+msgid "Style 2"
+msgstr ""
+
+#: admin/redux-config.php:2718 elementor/traits/global-widget-controls.php:882
+#: elementor/traits/global-widget-controls.php:2301
+#: elementor/traits/global-widget-controls.php:2316
+#: elementor/widgets/advanced-button/advanced-button.php:48
+#: elementor/widgets/advanced-button/advanced-button.php:85
+#: elementor/widgets/divider-heading/divider-heading.php:531
+#: elementor/widgets/navigation/navigation.php:300
+#: elementor/widgets/post-kenzo/post-kenzo.php:239
+#: elementor/widgets/post-stellar/post-stellar.php:132
+msgid "Style 3"
+msgstr ""
+
+#: admin/redux-config.php:2719 elementor/traits/global-widget-controls.php:883
+#: elementor/traits/global-widget-controls.php:2317
+#: elementor/widgets/advanced-button/advanced-button.php:86
+#: elementor/widgets/divider-heading/divider-heading.php:532
+#: elementor/widgets/navigation/navigation.php:301
+msgid "Style 4"
+msgstr ""
+
+#: admin/redux-config.php:2727
+msgid "Quote Box Radius"
+msgstr ""
+
+#: admin/redux-config.php:2735
+msgid "Quote Box Shadow"
+msgstr ""
+
+#: admin/redux-config.php:2744
+msgid "Quote Box Background"
+msgstr ""
+
+#: admin/redux-config.php:2754
+msgid "Quote Box Text Color"
+msgstr ""
+
+#: admin/redux-config.php:2765
+msgid "Link Post Format"
+msgstr ""
+
+#: admin/redux-config.php:2770
+msgid "Link Position"
+msgstr ""
+
+#: admin/redux-config.php:2771 admin/redux-config.php:2784
+msgid "Select link position."
+msgstr ""
+
+#: admin/redux-config.php:2783
+msgid "Link Position To Meta"
+msgstr ""
+
+#: admin/redux-config.php:2796
+msgid "Link Box Radius"
+msgstr ""
+
+#: admin/redux-config.php:2804
+msgid "Link Box Shadow"
+msgstr ""
+
+#: admin/redux-config.php:2813
+msgid "Link Box Background"
+msgstr ""
+
+#: admin/redux-config.php:2823
+msgid "Link Box Text Color"
+msgstr ""
+
+#: admin/redux-config.php:2834
+msgid "Video Post Format"
+msgstr ""
+
+#: admin/redux-config.php:2839
+msgid "Video Position"
+msgstr ""
+
+#: admin/redux-config.php:2840 admin/redux-config.php:2853
+msgid "Select video position."
+msgstr ""
+
+#: admin/redux-config.php:2852
+msgid "Video Position To Meta"
+msgstr ""
+
+#: admin/redux-config.php:2867
+msgid "Audio Post Format"
+msgstr ""
+
+#: admin/redux-config.php:2872
+msgid "Audio Position"
+msgstr ""
+
+#: admin/redux-config.php:2873 admin/redux-config.php:2886
+msgid "Select audio position."
+msgstr ""
+
+#: admin/redux-config.php:2885
+msgid "Audio Position To Meta"
+msgstr ""
+
+#: admin/redux-config.php:2904
+msgid "Blog Archive"
+msgstr ""
+
+#: admin/redux-config.php:2906
+msgid "Blog settings"
+msgstr ""
+
+#: admin/redux-config.php:2913
+msgid "Blog Archive Template"
+msgstr ""
+
+#: admin/redux-config.php:2914
+msgid "Select template for blog archive."
+msgstr ""
+
+#: admin/redux-config.php:2926
+msgid "Search Settings"
+msgstr ""
+
+#: admin/redux-config.php:2932
+msgid "Search Post Types"
+msgstr ""
+
+#: admin/redux-config.php:2933
+msgid "Limit search for custom post types."
+msgstr ""
+
+#: admin/redux-config.php:2935
+msgid "WordPress search in all post types by default."
+msgstr ""
+
+#: admin/redux-config.php:2945
+msgid "Archive Title Settings"
+msgstr ""
+
+#: admin/redux-config.php:2950
+msgid "Archive Title Section Radius"
+msgstr ""
+
+#: admin/redux-config.php:2958
+msgid "Archive Title Section Shadow"
+msgstr ""
+
+#: admin/redux-config.php:2967
+msgid "Archive Title Section Background"
+msgstr ""
+
+#: admin/redux-config.php:2977
+msgid "Archive Title Section Color"
+msgstr ""
+
+#: admin/redux-config.php:2989
+msgid "Archive Title Section Padding (px)"
+msgstr ""
+
+#: admin/redux-config.php:3002
+msgid "Page 404"
+msgstr ""
+
+#: admin/redux-config.php:3004
+msgid "Page 404 settings"
+msgstr ""
+
+#: admin/redux-config.php:3011
+msgid "Page 404 Template"
+msgstr ""
+
+#: admin/redux-config.php:3012
+msgid "Select template for page 404."
+msgstr ""
+
+#: admin/redux-config.php:3026
+msgid "Performance"
+msgstr ""
+
+#: admin/redux-config.php:3028
+msgid "Performance settings"
+msgstr ""
+
+#: admin/redux-config.php:3037
+msgid "Disable Load Elementor Google Font"
+msgstr ""
+
+#: admin/redux-config.php:3038
+msgid ""
+"If you don't use google fonts from the elementor, enable this option to "
+"prevent loading unused google fonts."
+msgstr ""
+
+#: admin/redux-config.php:3045
+msgid "Disable Emojis"
+msgstr ""
+
+#: admin/redux-config.php:3046
+msgid "If you don't use emojis, enable this option to disable emojis."
+msgstr ""
+
+#: admin/redux-config.php:3053
+msgid "Disable Extendify Gutenberg Assets"
+msgstr ""
+
+#: admin/redux-config.php:3054
+msgid ""
+"If you don't use Extendify templates in gutenberg (from Redux Framework), "
+"enable this option to disable it\\s assets."
+msgstr ""
+
+#: admin/redux-config.php:3061
+msgid "Disable Woocommerce Assets out Of Shop"
+msgstr ""
+
+#: admin/redux-config.php:3062
+msgid ""
+"By default woocommerce css/js load on all pages. Enable this option to load "
+"them just on woocommerce pages."
+msgstr ""
+
+#: admin/redux-config.php:3069
+msgid "Disable Gutenberg Assets From Archives & Elementor Pages"
+msgstr ""
+
+#: admin/redux-config.php:3070
+msgid ""
+"By default gutenberg css load on all pages. Enable this option to disable "
+"load them from homepage, category & tag archives and pages build with "
+"Elementor."
+msgstr ""
+
+#: comments.php:30 comments.php:31
+msgid "Show Comments"
+msgstr ""
+
+#: comments.php:30
+msgid "Hide Comments"
+msgstr ""
+
+#: comments.php:39
+msgid "No Comment! Be the first one."
+msgstr ""
+
+#: comments.php:42 elementor/widgets/post-elastic-alt/post-elastic-alt.php:708
+#: elementor/widgets/post-modern/post-modern.php:1031
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:45 elementor/widgets/post-elastic-alt/post-elastic-alt.php:711
+#: elementor/widgets/post-modern/post-modern.php:1034
+#, php-format
+msgid "%d Comments"
+msgstr ""
+
+#: comments.php:63
+msgid "Older comments"
+msgstr ""
+
+#: comments.php:64
+msgid "Newer comments"
+msgstr ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:81 elementor/widgets/tag-cloud/tag-cloud.php:173
+#: elementor/widgets/tag-cloud/tag-cloud.php:363
+msgid "Name"
+msgstr ""
+
+#: comments.php:83
+msgid "Website"
+msgstr ""
+
+#: comments.php:90 template-parts/post/hero/title-section-1.php:104
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: elementor/controls/ajax-select2.php:25
+#: elementor/widgets/search/search.php:15
+msgid "Search"
+msgstr ""
+
+#: elementor/elementor-sticky-column.php:44
+msgid "Rivax Sticky"
+msgstr ""
+
+#: elementor/elementor-sticky-column.php:52
+msgid "Sticky Column"
+msgstr ""
+
+#: elementor/elementor-sticky-column.php:60
+msgid "Top Spacing"
+msgstr ""
+
+#: elementor/elementor-sticky-column.php:75
+msgid "Bottom Spacing"
+msgstr ""
+
+#: elementor/elementor.php:63
+msgid "Rivax Elements"
+msgstr ""
+
+#: elementor/helper.php:194 elementor/traits/post-skin-base.php:166
+msgid "No more posts found!"
+msgstr ""
+
+#: elementor/templates/post-elastic-alt/post-elastic-alt.php:9
+#: elementor/templates/post-elastic/post-elastic.php:9
+#: elementor/templates/post-kenzo/post-kenzo.php:9
+#: elementor/templates/post-modern/post-modern.php:9
+#: elementor/templates/post-stellar/post-stellar.php:9
+#: template-parts/archive/archive-default.php:60
+msgid "Nothing found!"
+msgstr ""
+
+#: elementor/templates/post-elastic-alt/post-elastic-alt.php:10
+#: elementor/templates/post-elastic/post-elastic.php:10
+#: elementor/templates/post-kenzo/post-kenzo.php:10
+#: elementor/templates/post-modern/post-modern.php:10
+#: elementor/templates/post-stellar/post-stellar.php:10
+#: template-parts/archive/archive-default.php:61
+msgid "It looks like nothing was found here!"
+msgstr ""
+
+#: elementor/templates/search/popup-search-content.php:6
+msgid "Type and hit Enter to search"
+msgstr ""
+
+#: elementor/templates/search/popup-search-content.php:10
+#: elementor/templates/search/search.php:18
+#: template-parts/archive/archive-title.php:85
+msgid "Search ..."
+msgstr ""
+
+#: elementor/templates/tag-cloud/tag-cloud.php:76
+msgid "Category Not Found!"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:19
+#: elementor/traits/global-widget-controls.php:29
+#: elementor/traits/global-widget-controls.php:136
+#: elementor/traits/global-widget-controls.php:959
+#: elementor/traits/post-skin-base.php:144
+msgid "Pagination"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:33
+#: elementor/widgets/advanced-heading/advanced-heading.php:509
+#: elementor/widgets/advanced-heading/advanced-heading.php:602
+#: elementor/widgets/advanced-heading/advanced-heading.php:702
+#: elementor/widgets/category-box/category-box.php:202
+#: elementor/widgets/site-logo/site-logo.php:73
+#: elementor/widgets/site-logo/site-logo.php:99
+#: elementor/widgets/social-icons/social-icons.php:204
+msgid "None"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:34
+msgid "Numbers"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:35
+msgid "Previous/Next"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:36
+msgid "Numbers + Previous/Next"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:37
+msgid "Load More Button"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:38
+msgid "Infinite scroll"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:46
+msgid "Page Limit"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:57
+msgid "Shorten"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:69
+msgid "Button Label"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:70
+#: elementor/traits/post-skin-base.php:55
+msgid "Load More"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:80
+msgid "Previous Label"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:81
+msgid "&laquo; Previous"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:91
+msgid "Next Label"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:92
+msgid "Next &raquo;"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:102
+#: elementor/traits/global-widget-controls.php:2367
+#: elementor/widgets/advanced-button/advanced-button.php:136
+#: elementor/widgets/advanced-heading/advanced-heading.php:155
+#: elementor/widgets/category-box/category-box.php:279
+#: elementor/widgets/creative-link/creative-link.php:80
+#: elementor/widgets/current-date/current-date.php:76
+#: elementor/widgets/divider-heading/divider-heading.php:91
+#: elementor/widgets/navigation/navigation.php:100
+#: elementor/widgets/offcanvas/offcanvas.php:74
+#: elementor/widgets/search/search.php:91
+#: elementor/widgets/site-logo/site-logo.php:122
+#: elementor/widgets/tag-cloud/tag-cloud.php:93
+msgid "Alignment"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:110
+#: elementor/traits/global-widget-controls.php:919
+#: elementor/traits/global-widget-controls.php:2375
+#: elementor/traits/global-widget-controls.php:2631
+#: elementor/widgets/advanced-button/advanced-button.php:144
+#: elementor/widgets/advanced-button/advanced-button.php:351
+#: elementor/widgets/advanced-heading/advanced-heading.php:163
+#: elementor/widgets/category-box/category-box.php:267
+#: elementor/widgets/category-box/category-box.php:287
+#: elementor/widgets/creative-link/creative-link.php:88
+#: elementor/widgets/current-date/current-date.php:85
+#: elementor/widgets/divider-heading/divider-heading.php:99
+#: elementor/widgets/divider-heading/divider-heading.php:196
+#: elementor/widgets/navigation/navigation.php:110
+#: elementor/widgets/offcanvas/offcanvas.php:83
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:197
+#: elementor/widgets/post-elastic/post-elastic.php:213
+#: elementor/widgets/post-kenzo/post-kenzo.php:269
+#: elementor/widgets/post-modern/post-modern.php:176
+#: elementor/widgets/post-modern/post-modern.php:291
+#: elementor/widgets/post-stellar/post-stellar.php:162
+#: elementor/widgets/search/search.php:100
+#: elementor/widgets/site-logo/site-logo.php:130
+#: elementor/widgets/social-icons/social-icons.php:119
+#: elementor/widgets/tag-cloud/tag-cloud.php:101
+msgid "Center"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:148
+msgid "Gap between Posts & Pagination"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:168
+#: elementor/traits/global-widget-controls.php:477
+#: elementor/traits/global-widget-controls.php:1202
+#: elementor/widgets/divider-heading/divider-heading.php:416
+#: elementor/widgets/social-icons/social-icons.php:597
+msgid "Size"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:172
+msgid "Extra Small"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:173
+msgid "Small"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:174
+msgid "Medium"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:175
+msgid "Large"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:176
+msgid "Extra Large"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:197
+#: elementor/traits/global-widget-controls.php:1123
+#: elementor/traits/global-widget-controls.php:1411
+#: elementor/traits/global-widget-controls.php:1806
+#: elementor/traits/global-widget-controls.php:2088
+#: elementor/traits/global-widget-controls.php:2422
+#: elementor/widgets/advanced-button/advanced-button.php:188
+#: elementor/widgets/category-box/category-box.php:396
+#: elementor/widgets/category-box/category-box.php:489
+#: elementor/widgets/category-box/category-box.php:804
+#: elementor/widgets/navigation/navigation.php:229
+#: elementor/widgets/offcanvas/offcanvas.php:270
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:296
+#: elementor/widgets/post-elastic/post-elastic.php:304
+#: elementor/widgets/post-kenzo/post-kenzo.php:401
+#: elementor/widgets/post-modern/post-modern.php:419
+#: elementor/widgets/post-modern/post-modern.php:529
+#: elementor/widgets/post-modern/post-modern.php:683
+#: elementor/widgets/search/search.php:200
+#: elementor/widgets/social-icons/social-icons.php:306
+#: elementor/widgets/social-icons/social-icons.php:388
+#: elementor/widgets/social-icons/social-icons.php:484
+#: elementor/widgets/social-icons/social-icons.php:633
+#: elementor/widgets/social-icons/social-icons.php:773
+#: elementor/widgets/social-icons/social-icons.php:868
+#: elementor/widgets/tag-cloud/tag-cloud.php:237
+msgid "Normal"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:216
+#: elementor/traits/global-widget-controls.php:290
+#: elementor/traits/global-widget-controls.php:347
+#: elementor/traits/global-widget-controls.php:463
+#: elementor/traits/global-widget-controls.php:1133
+#: elementor/traits/global-widget-controls.php:1234
+#: elementor/traits/global-widget-controls.php:1422
+#: elementor/traits/global-widget-controls.php:1541
+#: elementor/traits/global-widget-controls.php:1643
+#: elementor/traits/global-widget-controls.php:1811
+#: elementor/traits/global-widget-controls.php:1874
+#: elementor/traits/global-widget-controls.php:2094
+#: elementor/traits/global-widget-controls.php:2140
+#: elementor/traits/global-widget-controls.php:2221
+#: elementor/traits/global-widget-controls.php:2447
+#: elementor/traits/global-widget-controls.php:2545
+#: elementor/traits/global-widget-controls.php:2684
+#: elementor/traits/global-widget-controls.php:2840
+#: elementor/widgets/advanced-button/advanced-button.php:394
+#: elementor/widgets/advanced-heading/advanced-heading.php:288
+#: elementor/widgets/advanced-heading/advanced-heading.php:381
+#: elementor/widgets/advanced-heading/advanced-heading.php:474
+#: elementor/widgets/advanced-heading/advanced-heading.php:571
+#: elementor/widgets/advanced-heading/advanced-heading.php:681
+#: elementor/widgets/category-box/category-box.php:810
+#: elementor/widgets/category-box/category-box.php:838
+#: elementor/widgets/category-box/category-box.php:940
+#: elementor/widgets/current-date/current-date.php:222
+#: elementor/widgets/current-date/current-date.php:304
+#: elementor/widgets/current-date/current-date.php:392
+#: elementor/widgets/divider-heading/divider-heading.php:310
+#: elementor/widgets/divider-heading/divider-heading.php:396
+#: elementor/widgets/divider-heading/divider-heading.php:494
+#: elementor/widgets/divider-heading/divider-heading.php:551
+#: elementor/widgets/navigation/navigation.php:218
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:530
+#: elementor/widgets/post-elastic/post-elastic.php:547
+#: elementor/widgets/post-kenzo/post-kenzo.php:540
+#: elementor/widgets/post-kenzo/post-kenzo.php:575
+#: elementor/widgets/post-modern/post-modern.php:780
+#: elementor/widgets/post-modern/post-modern.php:815
+#: elementor/widgets/post-modern/post-modern.php:928
+#: elementor/widgets/post-stellar/post-stellar.php:358
+#: elementor/widgets/post-stellar/post-stellar.php:393
+#: elementor/widgets/search/search.php:218
+#: elementor/widgets/search/search.php:366
+#: elementor/widgets/site-logo/site-logo.php:254
+#: elementor/widgets/site-logo/site-logo.php:301
+#: elementor/widgets/social-icons/social-icons.php:312
+#: elementor/widgets/social-icons/social-icons.php:346
+#: elementor/widgets/social-icons/social-icons.php:394
+#: elementor/widgets/social-icons/social-icons.php:428
+#: elementor/widgets/social-icons/social-icons.php:638
+#: elementor/widgets/social-icons/social-icons.php:688
+#: elementor/widgets/social-icons/social-icons.php:778
+#: elementor/widgets/social-icons/social-icons.php:802
+#: elementor/widgets/social-icons/social-icons.php:873
+#: elementor/widgets/social-icons/social-icons.php:897
+#: elementor/widgets/tag-cloud/tag-cloud.php:371
+#: elementor/widgets/tag-cloud/tag-cloud.php:412
+msgid "Color"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:228
+#: elementor/widgets/advanced-heading/advanced-heading.php:498
+#: elementor/widgets/current-date/current-date.php:137
+#: elementor/widgets/current-date/current-date.php:245
+#: elementor/widgets/current-date/current-date.php:327
+#: elementor/widgets/current-date/current-date.php:415
+#: elementor/widgets/navigation/navigation.php:209
+#: elementor/widgets/offcanvas/offcanvas.php:239
+#: elementor/widgets/search/search.php:176
+#: elementor/widgets/search/search.php:346
+#: elementor/widgets/search/search.php:505
+#: elementor/widgets/site-logo/site-logo.php:322
+msgid "Border"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:237
+#: elementor/traits/global-widget-controls.php:1172
+#: elementor/traits/global-widget-controls.php:1368
+#: elementor/traits/global-widget-controls.php:1500
+#: elementor/traits/global-widget-controls.php:1598
+#: elementor/traits/global-widget-controls.php:1842
+#: elementor/traits/global-widget-controls.php:1905
+#: elementor/traits/global-widget-controls.php:2466
+#: elementor/traits/global-widget-controls.php:2709
+#: elementor/traits/global-widget-controls.php:2859
+#: elementor/widgets/advanced-button/advanced-button.php:413
+#: elementor/widgets/advanced-heading/advanced-heading.php:259
+#: elementor/widgets/advanced-heading/advanced-heading.php:352
+#: elementor/widgets/advanced-heading/advanced-heading.php:445
+#: elementor/widgets/category-box/category-box.php:373
+#: elementor/widgets/category-box/category-box.php:547
+#: elementor/widgets/category-box/category-box.php:673
+#: elementor/widgets/category-box/category-box.php:788
+#: elementor/widgets/category-box/category-box.php:974
+#: elementor/widgets/current-date/current-date.php:146
+#: elementor/widgets/current-date/current-date.php:254
+#: elementor/widgets/current-date/current-date.php:336
+#: elementor/widgets/current-date/current-date.php:424
+#: elementor/widgets/divider-heading/divider-heading.php:281
+#: elementor/widgets/divider-heading/divider-heading.php:374
+#: elementor/widgets/divider-heading/divider-heading.php:453
+#: elementor/widgets/navigation/navigation.php:185
+#: elementor/widgets/offcanvas/offcanvas.php:247
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:319
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:451
+#: elementor/widgets/post-elastic/post-elastic.php:327
+#: elementor/widgets/post-elastic/post-elastic.php:461
+#: elementor/widgets/post-kenzo/post-kenzo.php:450
+#: elementor/widgets/post-kenzo/post-kenzo.php:618
+#: elementor/widgets/post-modern/post-modern.php:442
+#: elementor/widgets/post-modern/post-modern.php:487
+#: elementor/widgets/post-modern/post-modern.php:569
+#: elementor/widgets/post-modern/post-modern.php:632
+#: elementor/widgets/post-modern/post-modern.php:706
+#: elementor/widgets/post-modern/post-modern.php:751
+#: elementor/widgets/post-modern/post-modern.php:858
+#: elementor/widgets/post-modern/post-modern.php:944
+#: elementor/widgets/post-stellar/post-stellar.php:271
+#: elementor/widgets/post-stellar/post-stellar.php:337
+#: elementor/widgets/post-stellar/post-stellar.php:436
+#: elementor/widgets/promo-box/promo-box.php:184
+#: elementor/widgets/search/search.php:185
+#: elementor/widgets/search/search.php:354
+#: elementor/widgets/search/search.php:513
+#: elementor/widgets/site-logo/site-logo.php:331
+#: elementor/widgets/social-icons/social-icons.php:507
+#: elementor/widgets/social-icons/social-icons.php:665
+#: elementor/widgets/tag-cloud/tag-cloud.php:284
+#: elementor/widgets/tag-cloud/tag-cloud.php:451
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:249
+#: elementor/traits/global-widget-controls.php:1187
+#: elementor/traits/global-widget-controls.php:1383
+#: elementor/traits/global-widget-controls.php:2004
+#: elementor/traits/global-widget-controls.php:2393
+#: elementor/traits/global-widget-controls.php:2795
+#: elementor/widgets/advanced-button/advanced-button.php:172
+#: elementor/widgets/advanced-heading/advanced-heading.php:227
+#: elementor/widgets/advanced-heading/advanced-heading.php:320
+#: elementor/widgets/advanced-heading/advanced-heading.php:413
+#: elementor/widgets/category-box/category-box.php:363
+#: elementor/widgets/category-box/category-box.php:693
+#: elementor/widgets/category-box/category-box.php:770
+#: elementor/widgets/category-box/category-box.php:926
+#: elementor/widgets/current-date/current-date.php:113
+#: elementor/widgets/current-date/current-date.php:181
+#: elementor/widgets/current-date/current-date.php:280
+#: elementor/widgets/current-date/current-date.php:368
+#: elementor/widgets/divider-heading/divider-heading.php:261
+#: elementor/widgets/divider-heading/divider-heading.php:354
+#: elementor/widgets/divider-heading/divider-heading.php:465
+#: elementor/widgets/offcanvas/offcanvas.php:226
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:385
+#: elementor/widgets/post-elastic/post-elastic.php:392
+#: elementor/widgets/post-modern/post-modern.php:407
+#: elementor/widgets/post-modern/post-modern.php:671
+#: elementor/widgets/post-modern/post-modern.php:891
+#: elementor/widgets/search/search.php:333
+#: elementor/widgets/search/search.php:492
+#: elementor/widgets/site-logo/site-logo.php:195
+#: elementor/widgets/social-icons/social-icons.php:471
+#: elementor/widgets/social-icons/social-icons.php:576
+#: elementor/widgets/social-icons/social-icons.php:742
+#: elementor/widgets/social-icons/social-icons.php:837
+#: elementor/widgets/tag-cloud/tag-cloud.php:296
+#: elementor/widgets/tag-cloud/tag-cloud.php:463
+msgid "Padding"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:271
+#: elementor/traits/global-widget-controls.php:1224
+#: elementor/traits/global-widget-controls.php:1869
+#: elementor/traits/global-widget-controls.php:2134
+#: elementor/traits/global-widget-controls.php:2501
+#: elementor/widgets/advanced-button/advanced-button.php:241
+#: elementor/widgets/category-box/category-box.php:427
+#: elementor/widgets/category-box/category-box.php:565
+#: elementor/widgets/category-box/category-box.php:832
+#: elementor/widgets/navigation/navigation.php:263
+#: elementor/widgets/offcanvas/offcanvas.php:302
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:338
+#: elementor/widgets/post-elastic/post-elastic.php:346
+#: elementor/widgets/post-kenzo/post-kenzo.php:468
+#: elementor/widgets/post-modern/post-modern.php:460
+#: elementor/widgets/post-modern/post-modern.php:587
+#: elementor/widgets/post-modern/post-modern.php:724
+#: elementor/widgets/search/search.php:241
+#: elementor/widgets/social-icons/social-icons.php:340
+#: elementor/widgets/social-icons/social-icons.php:422
+#: elementor/widgets/social-icons/social-icons.php:525
+#: elementor/widgets/social-icons/social-icons.php:683
+#: elementor/widgets/social-icons/social-icons.php:797
+#: elementor/widgets/social-icons/social-icons.php:892
+#: elementor/widgets/tag-cloud/tag-cloud.php:318
+msgid "Hover"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:301
+#: elementor/traits/global-widget-controls.php:361
+#: elementor/traits/global-widget-controls.php:1262
+#: elementor/traits/global-widget-controls.php:1893
+#: elementor/traits/global-widget-controls.php:2525
+#: elementor/widgets/category-box/category-box.php:442
+#: elementor/widgets/category-box/category-box.php:616
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:352
+#: elementor/widgets/post-elastic/post-elastic.php:360
+#: elementor/widgets/post-kenzo/post-kenzo.php:510
+#: elementor/widgets/post-modern/post-modern.php:475
+#: elementor/widgets/post-modern/post-modern.php:620
+#: elementor/widgets/post-modern/post-modern.php:739
+#: elementor/widgets/search/search.php:270
+#: elementor/widgets/social-icons/social-icons.php:541
+#: elementor/widgets/social-icons/social-icons.php:708
+#: elementor/widgets/social-icons/social-icons.php:812
+#: elementor/widgets/social-icons/social-icons.php:906
+#: elementor/widgets/tag-cloud/tag-cloud.php:334
+msgid "Border Color"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:390
+#: elementor/traits/global-widget-controls.php:1437
+msgid "Space Between"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:411
+msgid "Item Width"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:431
+#: elementor/widgets/post-kenzo/post-kenzo.php:288
+#: elementor/widgets/post-stellar/post-stellar.php:181
+msgid "Item Height"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:451
+msgid "Loader"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:506
+msgid "Carousel Settings"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:516
+msgid "Direction"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:520
+#: elementor/widgets/navigation/navigation.php:92
+msgid "Horizontal"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:521
+#: elementor/widgets/navigation/navigation.php:93
+msgid "Vertical"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:530
+msgid "Container Height"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:554
+msgid "Effect"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:558
+msgid "Slide"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:560
+msgid "Fade"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:571
+msgid "Creative Effect"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:589
+msgid "Next Slide"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:596
+#: elementor/traits/global-widget-controls.php:668
+msgid "Translate X (%)"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:617
+#: elementor/traits/global-widget-controls.php:689
+msgid "Translate Y (px)"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:638
+#: elementor/traits/global-widget-controls.php:710
+msgid "Translate Z (px)"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:661
+msgid "Previews Slide"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:747
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:757
+msgid "Autoplay Speed"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:769
+msgid "Pause on Hover"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:778
+msgid "Slides to Scroll"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:796
+msgid "Center Slide"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:804
+msgid "Grab Cursor"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:812
+msgid "Loop"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:821
+msgid "Auto Height"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:830
+msgid "Animation Speed (ms)"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:848
+msgid "Observer"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:849
+msgid ""
+"When you use carousel in any hidden place (in tabs, accordion etc) keep it "
+"yes."
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:858
+#: elementor/traits/global-widget-controls.php:1025
+#: elementor/widgets/navigation/navigation.php:15
+msgid "Navigation"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:868
+#: elementor/traits/global-widget-controls.php:1049
+msgid "Arrows"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:876
+msgid "Arrows Icon"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:884
+#: elementor/traits/global-widget-controls.php:2318
+#: elementor/widgets/advanced-button/advanced-button.php:87
+#: elementor/widgets/divider-heading/divider-heading.php:533
+#: elementor/widgets/navigation/navigation.php:302
+msgid "Style 5"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:885
+#: elementor/traits/global-widget-controls.php:2319
+#: elementor/widgets/advanced-button/advanced-button.php:88
+#: elementor/widgets/divider-heading/divider-heading.php:534
+msgid "Style 6"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:886
+#: elementor/traits/global-widget-controls.php:2320
+#: elementor/widgets/advanced-button/advanced-button.php:89
+#: elementor/widgets/divider-heading/divider-heading.php:535
+msgid "Style 7"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:887
+#: elementor/traits/global-widget-controls.php:2321
+#: elementor/widgets/advanced-button/advanced-button.php:90
+#: elementor/widgets/divider-heading/divider-heading.php:536
+msgid "Style 8"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:888
+#: elementor/traits/global-widget-controls.php:2322
+#: elementor/widgets/advanced-button/advanced-button.php:91
+#: elementor/widgets/divider-heading/divider-heading.php:537
+msgid "Style 9"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:889
+#: elementor/traits/global-widget-controls.php:2323
+#: elementor/widgets/advanced-button/advanced-button.php:92
+#: elementor/widgets/divider-heading/divider-heading.php:538
+msgid "Style 10"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:890
+#: elementor/traits/global-widget-controls.php:2324
+#: elementor/widgets/advanced-button/advanced-button.php:93
+#: elementor/widgets/divider-heading/divider-heading.php:539
+msgid "Style 11"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:891
+#: elementor/traits/global-widget-controls.php:2325
+#: elementor/widgets/advanced-button/advanced-button.php:94
+#: elementor/widgets/divider-heading/divider-heading.php:540
+msgid "Style 12"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:892
+#: elementor/traits/global-widget-controls.php:2326
+#: elementor/widgets/advanced-button/advanced-button.php:95
+#: elementor/widgets/divider-heading/divider-heading.php:541
+msgid "Style 13"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:893
+#: elementor/traits/global-widget-controls.php:2327
+#: elementor/widgets/advanced-button/advanced-button.php:96
+#: elementor/widgets/divider-heading/divider-heading.php:542
+msgid "Style 14"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:894
+#: elementor/traits/global-widget-controls.php:2328
+#: elementor/widgets/advanced-button/advanced-button.php:97
+#: elementor/widgets/divider-heading/divider-heading.php:543
+msgid "Style 15"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:895
+#: elementor/traits/global-widget-controls.php:2329
+#: elementor/widgets/advanced-button/advanced-button.php:98
+msgid "Style 16"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:896
+#: elementor/traits/global-widget-controls.php:2330
+#: elementor/widgets/advanced-button/advanced-button.php:99
+msgid "Style 17"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:897
+#: elementor/traits/global-widget-controls.php:2331
+#: elementor/widgets/advanced-button/advanced-button.php:100
+msgid "Style 18"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:898
+#: elementor/traits/global-widget-controls.php:2332
+#: elementor/widgets/advanced-button/advanced-button.php:101
+msgid "Style 19"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:899
+#: elementor/traits/global-widget-controls.php:2333
+#: elementor/widgets/advanced-button/advanced-button.php:102
+msgid "Style 20"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:900
+#: elementor/traits/global-widget-controls.php:2334
+#: elementor/widgets/advanced-button/advanced-button.php:103
+msgid "Style 21"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:901
+#: elementor/traits/global-widget-controls.php:2335
+#: elementor/widgets/advanced-button/advanced-button.php:104
+msgid "Style 22"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:902
+#: elementor/traits/global-widget-controls.php:2336
+#: elementor/widgets/advanced-button/advanced-button.php:105
+msgid "Style 23"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:913
+msgid "Arrows Position"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:917
+#: elementor/widgets/category-box/category-box.php:266
+#: elementor/widgets/divider-heading/divider-heading.php:170
+#: elementor/widgets/divider-heading/divider-heading.php:192
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:171
+#: elementor/widgets/post-elastic/post-elastic.php:184
+#: elementor/widgets/social-icons/social-icons.php:50
+msgid "Top"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:918
+#: elementor/widgets/category-box/category-box.php:268
+#: elementor/widgets/divider-heading/divider-heading.php:174
+#: elementor/widgets/divider-heading/divider-heading.php:204
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:175
+#: elementor/widgets/post-elastic/post-elastic.php:188
+#: elementor/widgets/social-icons/social-icons.php:64
+msgid "Bottom"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:920
+#: elementor/traits/global-widget-controls.php:999
+#: elementor/traits/global-widget-controls.php:2773
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:235
+msgid "Top Left"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:921
+#: elementor/traits/global-widget-controls.php:1000
+#: elementor/traits/global-widget-controls.php:2774
+msgid "Top Center"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:922
+#: elementor/traits/global-widget-controls.php:1001
+#: elementor/traits/global-widget-controls.php:2775
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:236
+msgid "Top Right"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:923
+#: elementor/traits/global-widget-controls.php:1002
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:237
+#: elementor/widgets/post-kenzo/post-kenzo.php:202
+#: elementor/widgets/post-stellar/post-stellar.php:95
+msgid "Bottom Left"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:924
+#: elementor/traits/global-widget-controls.php:1003
+#: elementor/widgets/post-kenzo/post-kenzo.php:203
+#: elementor/widgets/post-stellar/post-stellar.php:96
+msgid "Bottom Center"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:925
+#: elementor/traits/global-widget-controls.php:1004
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:238
+#: elementor/widgets/post-kenzo/post-kenzo.php:204
+#: elementor/widgets/post-stellar/post-stellar.php:97
+msgid "Bottom Right"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:936
+msgid "Show Arrows on Hover"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:947
+msgid "Hide Arrows on Mobile"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:967
+msgid "Pagination Type"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:971
+#: elementor/traits/global-widget-controls.php:1293
+msgid "Bullets"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:972
+#: elementor/traits/global-widget-controls.php:1631
+msgid "Fraction"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:983
+msgid "Dynamic Bullets"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:995
+msgid "Pagination Position"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1005
+msgid "Center Left"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1006
+msgid "Center Right"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1037
+msgid "Navigation and Pagination are disabled from navigation setting."
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1060
+msgid "Arrows Vertical Offset"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1080
+msgid "Arrow Left Offset"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1100
+msgid "Arrow Right Offset"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1147
+#: elementor/traits/global-widget-controls.php:1248
+#: elementor/traits/global-widget-controls.php:1884
+#: elementor/traits/global-widget-controls.php:2112
+#: elementor/traits/global-widget-controls.php:2158
+#: elementor/traits/global-widget-controls.php:2829
+#: elementor/widgets/advanced-heading/advanced-heading.php:92
+#: elementor/widgets/category-box/category-box.php:656
+#: elementor/widgets/category-box/category-box.php:819
+#: elementor/widgets/category-box/category-box.php:847
+#: elementor/widgets/category-box/category-box.php:952
+#: elementor/widgets/current-date/current-date.php:126
+#: elementor/widgets/current-date/current-date.php:234
+#: elementor/widgets/current-date/current-date.php:316
+#: elementor/widgets/current-date/current-date.php:404
+#: elementor/widgets/navigation/navigation.php:173
+#: elementor/widgets/offcanvas/offcanvas.php:187
+#: elementor/widgets/post-modern/post-modern.php:426
+#: elementor/widgets/post-modern/post-modern.php:467
+#: elementor/widgets/post-modern/post-modern.php:690
+#: elementor/widgets/post-modern/post-modern.php:731
+#: elementor/widgets/post-modern/post-modern.php:920
+#: elementor/widgets/promo-box/promo-box.php:252
+#: elementor/widgets/search/search.php:207
+#: elementor/widgets/search/search.php:388
+#: elementor/widgets/search/search.php:429
+#: elementor/widgets/social-icons/social-icons.php:321
+#: elementor/widgets/social-icons/social-icons.php:355
+#: elementor/widgets/social-icons/social-icons.php:403
+#: elementor/widgets/social-icons/social-icons.php:437
+msgid "Background"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1305
+msgid "Vertical Offset"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1325
+msgid "Horizontal Offset"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1458
+#: elementor/traits/global-widget-controls.php:1556
+msgid "Width(px)"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1479
+#: elementor/traits/global-widget-controls.php:1577
+msgid "Height(px)"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1658
+msgid "Active Color"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1702
+msgid "Human Different Time"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1713
+msgid "Show Time"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1729
+msgid "Terms"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1738
+msgid "Term Taxonomy"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1739
+msgid "Select taxonomy related to your post type."
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1751
+msgid "Max Terms"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1766
+msgid "Term"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1775
+msgid "Section Margin"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1785
+msgid "Item Margin"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1795
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:284
+#: elementor/widgets/post-elastic/post-elastic.php:292
+msgid "Item Padding"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1827
+msgid "Multi Background"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1828
+msgid "Edit terms and set color for them."
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1940
+#: elementor/widgets/category-box/category-box.php:306
+msgid "Title HTML Tag"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1954
+#: elementor/traits/group-control-query.php:278
+#: elementor/widgets/advanced-button/advanced-button.php:56
+#: elementor/widgets/category-box/category-box.php:705
+#: elementor/widgets/creative-link/creative-link.php:66
+#: elementor/widgets/current-date/current-date.php:43
+#: elementor/widgets/current-date/current-date.php:269
+#: elementor/widgets/divider-heading/divider-heading.php:42
+#: elementor/widgets/divider-heading/divider-heading.php:44
+#: elementor/widgets/divider-heading/divider-heading.php:45
+#: elementor/widgets/divider-heading/divider-heading.php:241
+#: elementor/widgets/social-icons/social-icons.php:258
+#: elementor/widgets/social-icons/social-icons.php:735
+msgid "Title"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1961
+#: elementor/widgets/category-box/category-box.php:714
+msgid "Hover Style"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1965
+#: elementor/widgets/category-box/category-box.php:718
+#: elementor/widgets/site-logo/site-logo.php:74
+#: elementor/widgets/site-logo/site-logo.php:100
+#: elementor/widgets/site-logo/site-logo.php:151 inc/functions.php:136
+#: inc/functions.php:229
+msgid "Default"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1966
+#: elementor/widgets/category-box/category-box.php:719
+msgid "Underline Fix"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1967
+#: elementor/widgets/category-box/category-box.php:720
+msgid "Overline Fix"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1968
+#: elementor/widgets/category-box/category-box.php:721
+msgid "Middle Fix"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1969
+#: elementor/widgets/category-box/category-box.php:722
+msgid "Underline"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1970
+#: elementor/widgets/category-box/category-box.php:723
+msgid "Middle Underline"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1971
+#: elementor/widgets/category-box/category-box.php:724
+msgid "Overline"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1972
+#: elementor/widgets/category-box/category-box.php:725
+msgid "Middle Overline"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1973
+#: elementor/widgets/category-box/category-box.php:726
+msgid "Underline In Out"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1974
+#: elementor/widgets/category-box/category-box.php:727
+msgid "Middle In Out"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1975
+#: elementor/widgets/category-box/category-box.php:728
+msgid "Overline In Out"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:1994
+#: elementor/traits/global-widget-controls.php:2239
+#: elementor/traits/global-widget-controls.php:2405
+#: elementor/traits/global-widget-controls.php:2784
+#: elementor/widgets/category-box/category-box.php:476
+#: elementor/widgets/category-box/category-box.php:683
+#: elementor/widgets/category-box/category-box.php:760
+#: elementor/widgets/category-box/category-box.php:913
+#: elementor/widgets/current-date/current-date.php:193
+#: elementor/widgets/current-date/current-date.php:292
+#: elementor/widgets/current-date/current-date.php:380
+#: elementor/widgets/divider-heading/divider-heading.php:249
+#: elementor/widgets/divider-heading/divider-heading.php:342
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:395
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:432
+#: elementor/widgets/post-elastic/post-elastic.php:402
+#: elementor/widgets/post-elastic/post-elastic.php:442
+#: elementor/widgets/post-modern/post-modern.php:517
+#: elementor/widgets/post-modern/post-modern.php:661
+#: elementor/widgets/post-modern/post-modern.php:881
+#: elementor/widgets/site-logo/site-logo.php:274
+#: elementor/widgets/social-icons/social-icons.php:586
+#: elementor/widgets/social-icons/social-icons.php:752
+#: elementor/widgets/social-icons/social-icons.php:847
+msgid "Margin"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2023
+msgid "Small Titles Font Size"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2056
+msgid "Small Titles Line Height"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2103
+#: elementor/traits/global-widget-controls.php:2149
+msgid "Section Background"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2123
+#: elementor/traits/global-widget-controls.php:2169
+#: elementor/widgets/advanced-heading/advanced-heading.php:280
+#: elementor/widgets/advanced-heading/advanced-heading.php:373
+#: elementor/widgets/advanced-heading/advanced-heading.php:466
+#: elementor/widgets/divider-heading/divider-heading.php:302
+#: elementor/widgets/divider-heading/divider-heading.php:388
+#: elementor/widgets/divider-heading/divider-heading.php:486
+msgid "Text Shadow"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2194
+msgid "Excerpt Limit Characters"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2256
+msgid "Read More Button"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2265
+#: elementor/widgets/post-kenzo/post-kenzo.php:248
+#: elementor/widgets/post-stellar/post-stellar.php:141
+msgid "Read More Text"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2267
+#: elementor/traits/global-widget-controls.php:2268
+#: elementor/traits/global-widget-controls.php:2283
+#: elementor/widgets/advanced-button/advanced-button.php:58
+#: elementor/widgets/post-kenzo/post-kenzo.php:250
+#: elementor/widgets/post-kenzo/post-kenzo.php:251
+#: elementor/widgets/post-stellar/post-stellar.php:143
+#: elementor/widgets/post-stellar/post-stellar.php:144
+#: template-parts/archive/archive-default.php:33
+msgid "Read More"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2294
+#: elementor/widgets/advanced-button/advanced-button.php:42
+msgid "Button Style"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2298
+msgid "Style default"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2309
+#: elementor/widgets/advanced-button/advanced-button.php:78
+msgid "Button Icon"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2313
+#: elementor/widgets/advanced-button/advanced-button.php:82
+msgid "No Icon"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2344
+#: elementor/widgets/advanced-button/advanced-button.php:113
+msgid "Icon position"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2349
+#: elementor/widgets/advanced-button/advanced-button.php:118
+msgid "before"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2353
+#: elementor/widgets/advanced-button/advanced-button.php:122
+msgid "after"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2484
+#: elementor/traits/global-widget-controls.php:2556
+#: elementor/widgets/advanced-button/advanced-button.php:224
+#: elementor/widgets/advanced-button/advanced-button.php:277
+#: elementor/widgets/offcanvas/offcanvas.php:277
+#: elementor/widgets/search/search.php:558
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2576
+#: elementor/traits/global-widget-controls.php:2812
+#: elementor/widgets/advanced-button/advanced-button.php:296
+msgid "Icon Size"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2597
+#: elementor/widgets/advanced-button/advanced-button.php:317
+msgid "Icon Spacing"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2614
+#: elementor/widgets/advanced-button/advanced-button.php:335
+msgid "Shape"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2626
+#: elementor/widgets/advanced-button/advanced-button.php:346
+msgid "shape position"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2643
+#: elementor/widgets/advanced-button/advanced-button.php:360
+msgid "Shape Width"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2664
+#: elementor/widgets/advanced-button/advanced-button.php:377
+msgid "Shape Height"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2744
+#: elementor/traits/global-widget-controls.php:2758
+msgid "Post Format Icon"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2769
+#: elementor/widgets/social-icons/social-icons.php:45
+msgid "Icon Position"
+msgstr ""
+
+#: elementor/traits/global-widget-controls.php:2776
+#: elementor/widgets/post-kenzo/post-kenzo.php:201
+#: elementor/widgets/post-stellar/post-stellar.php:94
+msgid "Center Center"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:17
+#: elementor/widgets/tag-cloud/tag-cloud.php:135
+msgid "Query"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:24
+msgid "Posts Source"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:36
+msgid "Current Query is suitable for archives."
+msgstr ""
+
+#: elementor/traits/group-control-query.php:45
+msgid "Posts Per Page"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:65
+#: elementor/widgets/tag-cloud/tag-cloud.php:197
+msgid "Include"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:75
+msgid "Include By"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:80
+#: elementor/traits/group-control-query.php:157
+#: elementor/widgets/tag-cloud/tag-cloud.php:156
+msgid "Taxonomy"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:81
+#: elementor/traits/group-control-query.php:158
+msgid "Authors"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:82
+#: elementor/traits/group-control-query.php:159
+msgid "Current Author"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:83
+#: elementor/traits/group-control-query.php:160
+msgid "Manual Selection"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:94
+#: elementor/traits/group-control-query.php:171
+msgid "Select Taxonomy"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:95
+#: elementor/traits/group-control-query.php:172
+msgid "Select Categories, Tags, Post Format or custom taxonomies."
+msgstr ""
+
+#: elementor/traits/group-control-query.php:110
+#: elementor/traits/group-control-query.php:187
+msgid "Select Authors"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:125
+#: elementor/traits/group-control-query.php:202
+msgid "Select Posts"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:142
+#: elementor/widgets/tag-cloud/tag-cloud.php:206
+msgid "Exclude"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:152
+msgid "Exclude By"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:231
+msgid "All"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:232
+msgid "Past Day"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:233
+msgid "Past Week"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:234
+msgid "Past Month"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:235
+msgid "Past Quarter"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:236
+msgid "Past Year"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:237
+#: elementor/widgets/advanced-heading/advanced-heading.php:603
+#: elementor/widgets/advanced-heading/advanced-heading.php:703
+#: elementor/widgets/site-logo/site-logo.php:75
+#: elementor/widgets/site-logo/site-logo.php:101
+#: elementor/widgets/site-logo/site-logo.php:152
+msgid "Custom"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:248
+msgid "Before"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:250
+msgid ""
+"Setting a ‘Before’ date will show all the posts published until the chosen "
+"date (inclusive)."
+msgstr ""
+
+#: elementor/traits/group-control-query.php:261
+msgid "After"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:263
+msgid ""
+"Setting an ‘After’ date will show all the posts published since the chosen "
+"date (inclusive)."
+msgstr ""
+
+#: elementor/traits/group-control-query.php:274
+#: elementor/widgets/tag-cloud/tag-cloud.php:169
+msgid "Order By"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:280
+msgid "Last Modified Date"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:281
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:250
+#: elementor/widgets/post-elastic/post-elastic.php:262
+#: elementor/widgets/post-kenzo/post-kenzo.php:358
+#: elementor/widgets/post-modern/post-modern.php:325
+#: elementor/widgets/post-stellar/post-stellar.php:223
+#: template-parts/archive/archive-title.php:56
+msgid "Author"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:282
+msgid "Comment Count"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:283
+msgid "Menu Order"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:284
+msgid "Random"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:295
+#: elementor/widgets/tag-cloud/tag-cloud.php:184
+msgid "Order"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:299
+#: elementor/widgets/tag-cloud/tag-cloud.php:188
+msgid "ASC"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:300
+#: elementor/widgets/tag-cloud/tag-cloud.php:189
+msgid "DESC"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:311
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:322
+msgid "Ignore Current Post"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:333
+msgid "Only Featured Image Post"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:334
+msgid "Enable to display posts only when featured image is present."
+msgstr ""
+
+#: elementor/traits/group-control-query.php:345
+#: elementor/widgets/advanced-heading/advanced-heading.php:600
+#: elementor/widgets/advanced-heading/advanced-heading.php:700
+msgid "Offset"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:346
+msgid "number of posts to skip them."
+msgstr ""
+
+#: elementor/traits/group-control-query.php:371
+msgid "Related"
+msgstr ""
+
+#: elementor/traits/group-control-query.php:372
+msgid "Current Query"
+msgstr ""
+
+#: elementor/traits/post-skin-base.php:337
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: elementor/widgets/advanced-button/advanced-button.php:15
+#: elementor/widgets/advanced-button/advanced-button.php:34
+msgid "Advanced Button"
+msgstr ""
+
+#: elementor/widgets/advanced-button/advanced-button.php:59
+msgid "Type Button Title"
+msgstr ""
+
+#: elementor/widgets/advanced-button/advanced-button.php:69
+#: elementor/widgets/advanced-heading/advanced-heading.php:106
+#: elementor/widgets/creative-link/creative-link.php:112
+#: elementor/widgets/divider-heading/divider-heading.php:124
+#: elementor/widgets/promo-box/promo-box.php:88
+#: elementor/widgets/social-icons/social-icons.php:249
+msgid "Link"
+msgstr ""
+
+#: elementor/widgets/advanced-button/advanced-button.php:71
+#: elementor/widgets/creative-link/creative-link.php:114
+#: elementor/widgets/divider-heading/divider-heading.php:126
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor/widgets/advanced-button/advanced-button.php:164
+#: elementor/widgets/search/search.php:121
+msgid "Button"
+msgstr ""
+
+#: elementor/widgets/advanced-button/advanced-button.php:213
+#: elementor/widgets/advanced-button/advanced-button.php:266
+msgid "Button Color"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:15
+msgid "Advanced Heading"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:42
+#: elementor/widgets/advanced-heading/advanced-heading.php:45
+#: elementor/widgets/advanced-heading/advanced-heading.php:219
+msgid "Text One"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:44
+msgid "Rivax Studio"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:55
+#: elementor/widgets/advanced-heading/advanced-heading.php:58
+#: elementor/widgets/advanced-heading/advanced-heading.php:312
+msgid "Text Two"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:57
+msgid "Creative"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:68
+#: elementor/widgets/advanced-heading/advanced-heading.php:71
+msgid "Text three"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:70
+msgid "Company"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:81
+#: elementor/widgets/advanced-heading/advanced-heading.php:93
+#: elementor/widgets/advanced-heading/advanced-heading.php:669
+msgid "Background Text"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:90
+msgid "Text"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:119
+#: elementor/widgets/divider-heading/divider-heading.php:55
+msgid "HTML Tag"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:124
+#: elementor/widgets/divider-heading/divider-heading.php:60
+msgid "H1"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:128
+#: elementor/widgets/divider-heading/divider-heading.php:64
+msgid "H2"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:132
+#: elementor/widgets/divider-heading/divider-heading.php:68
+msgid "H3"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:136
+#: elementor/widgets/divider-heading/divider-heading.php:72
+msgid "H4"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:140
+#: elementor/widgets/divider-heading/divider-heading.php:76
+msgid "H5"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:144
+#: elementor/widgets/divider-heading/divider-heading.php:80
+msgid "H6"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:188
+#: elementor/widgets/category-box/category-box.php:37
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:44
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:52
+#: elementor/widgets/post-elastic/post-elastic.php:44
+#: elementor/widgets/post-elastic/post-elastic.php:52
+#: elementor/widgets/post-kenzo/post-kenzo.php:57
+#: elementor/widgets/post-kenzo/post-kenzo.php:65
+#: elementor/widgets/post-modern/post-modern.php:57
+#: elementor/widgets/post-modern/post-modern.php:65
+#: elementor/widgets/post-stellar/post-stellar.php:45
+#: elementor/widgets/social-icons/social-icons.php:37
+#: elementor/widgets/tag-cloud/tag-cloud.php:34
+msgid "Layout"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:192
+#: elementor/widgets/search/search.php:48
+#: elementor/widgets/social-icons/social-icons.php:78
+msgid "Inline"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:196
+msgid "Block"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:239
+#: elementor/widgets/advanced-heading/advanced-heading.php:332
+#: elementor/widgets/advanced-heading/advanced-heading.php:425
+#: elementor/widgets/divider-heading/divider-heading.php:220
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:606
+#: elementor/widgets/tag-cloud/tag-cloud.php:492
+msgid "Spacing"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:405
+msgid "Text Three"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:506
+msgid "Border Type"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:510
+msgid "Solid"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:511
+msgid "Double"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:512
+msgid "Dotted"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:513
+msgid "Dashed"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:514
+msgid "Groove"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:526
+#: elementor/widgets/category-box/category-box.php:874
+#: elementor/widgets/offcanvas/offcanvas.php:51
+#: elementor/widgets/offcanvas/offcanvas.php:110
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:463
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:574
+#: elementor/widgets/post-elastic/post-elastic.php:480
+#: elementor/widgets/post-kenzo/post-kenzo.php:585
+#: elementor/widgets/post-modern/post-modern.php:825
+#: elementor/widgets/post-stellar/post-stellar.php:403
+#: elementor/widgets/search/search.php:310
+#: elementor/widgets/site-logo/site-logo.php:222
+#: elementor/widgets/social-icons/social-icons.php:614
+msgid "Width"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:547
+#: elementor/widgets/category-box/category-box.php:894
+#: elementor/widgets/divider-heading/divider-heading.php:573
+#: elementor/widgets/offcanvas/offcanvas.php:63
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:493
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:590
+#: elementor/widgets/post-elastic/post-elastic.php:510
+#: elementor/widgets/post-kenzo/post-kenzo.php:602
+#: elementor/widgets/post-modern/post-modern.php:842
+#: elementor/widgets/post-stellar/post-stellar.php:420
+msgid "Height"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:585
+msgid "Border radius"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:616
+#: elementor/widgets/advanced-heading/advanced-heading.php:713
+msgid "Horizontal Position"
+msgstr ""
+
+#: elementor/widgets/advanced-heading/advanced-heading.php:640
+#: elementor/widgets/advanced-heading/advanced-heading.php:737
+#: elementor/widgets/divider-heading/divider-heading.php:188
+msgid "Vertical Position"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:15
+msgid "Category Box"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:45
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:65
+#: elementor/widgets/post-elastic/post-elastic.php:65
+#: elementor/widgets/post-kenzo/post-kenzo.php:92
+#: elementor/widgets/post-modern/post-modern.php:79
+#: elementor/widgets/post-stellar/post-stellar.php:53
+#: elementor/widgets/social-icons/social-icons.php:87
+#: elementor/widgets/tag-cloud/tag-cloud.php:41
+msgid "Columns"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:67
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:89
+#: elementor/widgets/post-elastic/post-elastic.php:89
+#: elementor/widgets/post-kenzo/post-kenzo.php:133
+#: elementor/widgets/post-modern/post-modern.php:104
+#: elementor/widgets/social-icons/social-icons.php:140
+#: elementor/widgets/tag-cloud/tag-cloud.php:62
+msgid "Column Gap"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:87
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:112
+#: elementor/widgets/post-elastic/post-elastic.php:112
+#: elementor/widgets/post-kenzo/post-kenzo.php:158
+#: elementor/widgets/post-modern/post-modern.php:129
+#: elementor/widgets/social-icons/social-icons.php:160
+msgid "Row Gap"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:107
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:217
+#: elementor/widgets/post-elastic/post-elastic.php:233
+#: elementor/widgets/post-kenzo/post-kenzo.php:318
+#: elementor/widgets/post-modern/post-modern.php:196
+msgid "Hide Last Item On Tablet"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:118
+msgid "Hide Last Item On Mobile"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:133
+#: elementor/widgets/tag-cloud/tag-cloud.php:161
+msgid "Categories"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:147
+msgid "Select a category."
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:157
+#: elementor/widgets/category-box/category-box.php:469
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:425
+#: elementor/widgets/post-elastic/post-elastic.php:432
+#: elementor/widgets/post-modern/post-modern.php:510
+#: elementor/widgets/site-logo/site-logo.php:43
+#: elementor/widgets/site-logo/site-logo.php:213
+msgid "Image"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:169
+msgid "Category Items"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:182
+#: elementor/widgets/search/search.php:36
+msgid "Settings"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:190
+#: elementor/widgets/social-icons/social-icons.php:192
+msgid "Open Link In New Tab"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:198
+#: elementor/widgets/creative-link/creative-link.php:42
+msgid "Animation Style"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:203
+msgid "Scale Up"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:204
+msgid "Move Up"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:224
+#: elementor/widgets/post-modern/post-modern.php:223
+msgid "Image Height"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:247
+#: elementor/widgets/post-kenzo/post-kenzo.php:197
+#: elementor/widgets/post-stellar/post-stellar.php:90
+msgid "Content Position"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:251
+#: elementor/widgets/post-modern/post-modern.php:273
+#: elementor/widgets/post-modern/post-modern.php:314
+msgid "Inside"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:252
+#: elementor/widgets/post-modern/post-modern.php:274
+#: elementor/widgets/post-modern/post-modern.php:315
+msgid "Outside"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:262
+msgid "Content Vertical Align"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:317
+msgid "Show Posts Count"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:325
+msgid "Count Text"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:327
+msgid " Posts"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:337
+msgid "Count Position"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:341
+msgid "Beside"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:342
+msgid "Below"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:357
+msgid "Category Item"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:496
+#: elementor/widgets/category-box/category-box.php:572
+#: elementor/widgets/post-kenzo/post-kenzo.php:408
+#: elementor/widgets/post-kenzo/post-kenzo.php:475
+#: elementor/widgets/post-modern/post-modern.php:536
+#: elementor/widgets/post-modern/post-modern.php:594
+msgid "Overlay Color"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:505
+#: elementor/widgets/category-box/category-box.php:581
+#: elementor/widgets/post-kenzo/post-kenzo.php:417
+#: elementor/widgets/post-kenzo/post-kenzo.php:484
+#: elementor/widgets/post-modern/post-modern.php:545
+#: elementor/widgets/post-modern/post-modern.php:603
+msgid "Overlay Opacity"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:523
+#: elementor/widgets/category-box/category-box.php:599
+msgid "Overlay Height"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:642
+#: elementor/widgets/current-date/current-date.php:36
+#: elementor/widgets/current-date/current-date.php:105
+#: elementor/widgets/offcanvas/offcanvas.php:101
+#: elementor/widgets/offcanvas/offcanvas.php:178
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:378
+#: elementor/widgets/post-elastic/post-elastic.php:385
+#: elementor/widgets/post-modern/post-modern.php:654
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:649
+msgid "Content Section"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:747
+msgid "Decoration Color"
+msgstr ""
+
+#: elementor/widgets/category-box/category-box.php:862
+#: elementor/widgets/tag-cloud/tag-cloud.php:404
+msgid "Count"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:15
+msgid "Creative Link"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:34
+#: elementor/widgets/creative-link/creative-link.php:123
+msgid "Link Content"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:46
+msgid "Julia"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:47
+msgid "Hera"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:48
+msgid "Apollo"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:49
+msgid "Kira"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:50
+msgid "Steve"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:51
+msgid "Moses"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:52
+msgid "Io"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:53
+msgid "Kale"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:54
+msgid "Leda"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:55
+#: elementor/widgets/promo-box/promo-box.php:129
+msgid "Ming"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:56
+msgid "Lexi"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:57
+msgid "Duke"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:58
+msgid "Dexter"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:69
+msgid "Animated Link"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:70
+msgid "Type Link Title"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:131
+msgid "Content Box Padding"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:143
+msgid "Link Color"
+msgstr ""
+
+#: elementor/widgets/creative-link/creative-link.php:154
+msgid "Link Hover Color"
+msgstr ""
+
+#: elementor/widgets/current-date/current-date.php:15
+msgid "Current Date"
+msgstr ""
+
+#: elementor/widgets/current-date/current-date.php:51
+msgid "Date Format"
+msgstr ""
+
+#: elementor/widgets/current-date/current-date.php:61
+#, php-format
+msgid "%s Date Format Documentation %s"
+msgstr ""
+
+#: elementor/widgets/current-date/current-date.php:68
+#: elementor/widgets/current-date/current-date.php:170
+#: elementor/widgets/divider-heading/divider-heading.php:133
+#: elementor/widgets/offcanvas/offcanvas.php:43
+#: elementor/widgets/offcanvas/offcanvas.php:217
+#: elementor/widgets/social-icons/social-icons.php:297
+#: elementor/widgets/social-icons/social-icons.php:569
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/current-date/current-date.php:159
+#: elementor/widgets/navigation/navigation.php:199
+#: elementor/widgets/offcanvas/offcanvas.php:260
+#: elementor/widgets/search/search.php:230
+#: elementor/widgets/search/search.php:400
+msgid "Box Shadow"
+msgstr ""
+
+#: elementor/widgets/divider-heading/divider-heading.php:15
+msgid "Divider Heading"
+msgstr ""
+
+#: elementor/widgets/divider-heading/divider-heading.php:141
+#: elementor/widgets/divider-heading/divider-heading.php:150
+#: elementor/widgets/divider-heading/divider-heading.php:152
+#: elementor/widgets/divider-heading/divider-heading.php:437
+#: elementor/widgets/social-icons/social-icons.php:830
+msgid "Subtitle"
+msgstr ""
+
+#: elementor/widgets/divider-heading/divider-heading.php:162
+#: elementor/widgets/offcanvas/offcanvas.php:147
+msgid "Position"
+msgstr ""
+
+#: elementor/widgets/divider-heading/divider-heading.php:166
+msgid "Side"
+msgstr ""
+
+#: elementor/widgets/divider-heading/divider-heading.php:200
+msgid "Baseline"
+msgstr ""
+
+#: elementor/widgets/divider-heading/divider-heading.php:334
+msgid "Title Icon"
+msgstr ""
+
+#: elementor/widgets/divider-heading/divider-heading.php:517
+#: elementor/widgets/post-kenzo/post-kenzo.php:567
+#: elementor/widgets/post-modern/post-modern.php:807
+#: elementor/widgets/post-stellar/post-stellar.php:385
+msgid "Divider"
+msgstr ""
+
+#: elementor/widgets/divider-heading/divider-heading.php:525
+msgid "Divider Style"
+msgstr ""
+
+#: elementor/widgets/divider-heading/divider-heading.php:562
+msgid "Color 2"
+msgstr ""
+
+#: elementor/widgets/divider-heading/divider-heading.php:590
+msgid "Divider 1 Width"
+msgstr ""
+
+#: elementor/widgets/divider-heading/divider-heading.php:612
+msgid "Divider 2 Width"
+msgstr ""
+
+#: elementor/widgets/divider-heading/divider-heading.php:634
+msgid "Divider 3 Width"
+msgstr ""
+
+#: elementor/widgets/divider-heading/divider-heading.php:656
+msgid "Divider 4 Width"
+msgstr ""
+
+#: elementor/widgets/navigation/navigation.php:57
+msgid "settings"
+msgstr ""
+
+#: elementor/widgets/navigation/navigation.php:67
+msgid "Select Menu"
+msgstr ""
+
+#: elementor/widgets/navigation/navigation.php:68
+#, php-format
+msgid "Go to the %s Menu screen %s to manage your menus."
+msgstr ""
+
+#: elementor/widgets/navigation/navigation.php:80
+#, php-format
+msgid ""
+"There are no menus in your site. Go to the %s Menu screen %s to create one."
+msgstr ""
+
+#: elementor/widgets/navigation/navigation.php:88
+msgid "Menu Type"
+msgstr ""
+
+#: elementor/widgets/navigation/navigation.php:106
+msgid "Start"
+msgstr ""
+
+#: elementor/widgets/navigation/navigation.php:114
+msgid "End"
+msgstr ""
+
+#: elementor/widgets/navigation/navigation.php:130
+#: elementor/widgets/offcanvas/offcanvas.php:170
+msgid "Style"
+msgstr ""
+
+#: elementor/widgets/navigation/navigation.php:138
+msgid "Level 1"
+msgstr ""
+
+#: elementor/widgets/navigation/navigation.php:155
+msgid "Submenu"
+msgstr ""
+
+#: elementor/widgets/navigation/navigation.php:236
+#: elementor/widgets/navigation/navigation.php:270
+msgid "Item Color"
+msgstr ""
+
+#: elementor/widgets/navigation/navigation.php:248
+#: elementor/widgets/navigation/navigation.php:282
+msgid "Submenu Item Color"
+msgstr ""
+
+#: elementor/widgets/navigation/navigation.php:294
+msgid "Hover Shape"
+msgstr ""
+
+#: elementor/widgets/navigation/navigation.php:310
+msgid "Hover Shape Color"
+msgstr ""
+
+#: elementor/widgets/offcanvas/offcanvas.php:15
+msgid "Offcanvas"
+msgstr ""
+
+#: elementor/widgets/offcanvas/offcanvas.php:137
+msgid "Content Template"
+msgstr ""
+
+#: elementor/widgets/offcanvas/offcanvas.php:140
+#, php-format
+msgid "Go to the %s Rivax Templates %s to manage your templates."
+msgstr ""
+
+#: elementor/widgets/offcanvas/offcanvas.php:196
+msgid "Close Icon Color"
+msgstr ""
+
+#: elementor/widgets/offcanvas/offcanvas.php:206
+msgid "Container Padding"
+msgstr ""
+
+#: elementor/widgets/offcanvas/offcanvas.php:288
+msgid "Icon Background"
+msgstr ""
+
+#: elementor/widgets/offcanvas/offcanvas.php:309
+msgid "Icon Color Hover"
+msgstr ""
+
+#: elementor/widgets/offcanvas/offcanvas.php:320
+msgid "Icon Background Hover"
+msgstr ""
+
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:23
+msgid "Post Elastic Alt"
+msgstr ""
+
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:55
+#: elementor/widgets/post-elastic/post-elastic.php:55
+#: elementor/widgets/post-kenzo/post-kenzo.php:68
+#: elementor/widgets/post-modern/post-modern.php:68
+#: elementor/widgets/social-icons/social-icons.php:77
+msgid "Grid"
+msgstr ""
+
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:56
+#: elementor/widgets/post-elastic/post-elastic.php:56
+#: elementor/widgets/post-kenzo/post-kenzo.php:70
+#: elementor/widgets/post-modern/post-modern.php:70
+msgid "Carousel"
+msgstr ""
+
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:142
+#: elementor/widgets/post-elastic/post-elastic.php:142
+#: elementor/widgets/post-kenzo/post-kenzo.php:189
+#: elementor/widgets/post-modern/post-modern.php:160
+#: elementor/widgets/post-stellar/post-stellar.php:82
+msgid "Post Settings"
+msgstr ""
+
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:189
+#: elementor/widgets/post-elastic/post-elastic.php:205
+#: elementor/widgets/post-kenzo/post-kenzo.php:261
+#: elementor/widgets/post-modern/post-modern.php:168
+#: elementor/widgets/post-stellar/post-stellar.php:154
+#: elementor/widgets/social-icons/social-icons.php:111
+msgid "Content Alignment"
+msgstr ""
+
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:232
+msgid "Date Position"
+msgstr ""
+
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:277
+#: elementor/widgets/post-elastic/post-elastic.php:285
+#: elementor/widgets/post-kenzo/post-kenzo.php:382
+#: elementor/widgets/post-modern/post-modern.php:400
+#: elementor/widgets/post-stellar/post-stellar.php:291
+#: elementor/widgets/tag-cloud/tag-cloud.php:227
+msgid "Items"
+msgstr ""
+
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:524
+#: elementor/widgets/post-elastic/post-elastic.php:541
+#: elementor/widgets/post-kenzo/post-kenzo.php:534
+#: elementor/widgets/post-modern/post-modern.php:774
+#: elementor/widgets/post-stellar/post-stellar.php:352
+msgid "Meta"
+msgstr ""
+
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:539
+#: elementor/widgets/post-elastic/post-elastic.php:556
+#: elementor/widgets/post-kenzo/post-kenzo.php:549
+#: elementor/widgets/post-modern/post-modern.php:789
+#: elementor/widgets/post-stellar/post-stellar.php:367
+#: elementor/widgets/tag-cloud/tag-cloud.php:382
+#: elementor/widgets/tag-cloud/tag-cloud.php:423
+msgid "Hover Color"
+msgstr ""
+
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:548
+msgid "Divider Color"
+msgstr ""
+
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:622
+msgid "Day Color"
+msgstr ""
+
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:631
+msgid "Month Color"
+msgstr ""
+
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:642
+msgid "Day Typography"
+msgstr ""
+
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:650
+msgid "Month Typography"
+msgstr ""
+
+#: elementor/widgets/post-elastic-alt/post-elastic-alt.php:705
+#: elementor/widgets/post-modern/post-modern.php:1028
+msgid "No Comment"
+msgstr ""
+
+#: elementor/widgets/post-elastic/post-elastic.php:23
+msgid "Post Elastic"
+msgstr ""
+
+#: elementor/widgets/post-elastic/post-elastic.php:150
+msgid "Show Image"
+msgstr ""
+
+#: elementor/widgets/post-elastic/post-elastic.php:248
+#: elementor/widgets/post-kenzo/post-kenzo.php:333
+#: elementor/widgets/post-modern/post-modern.php:211
+msgid "Disable Image Hover Effect"
+msgstr ""
+
+#: elementor/widgets/post-kenzo/post-kenzo.php:23
+msgid "Post Kenzo"
+msgstr ""
+
+#: elementor/widgets/post-kenzo/post-kenzo.php:69
+#: elementor/widgets/post-modern/post-modern.php:69
+msgid "Masonry"
+msgstr ""
+
+#: elementor/widgets/post-kenzo/post-kenzo.php:79
+msgid "Tiles Layout"
+msgstr ""
+
+#: elementor/widgets/post-kenzo/post-kenzo.php:212
+#: elementor/widgets/post-stellar/post-stellar.php:105
+msgid "Content Width"
+msgstr ""
+
+#: elementor/widgets/post-kenzo/post-kenzo.php:234
+#: elementor/widgets/post-stellar/post-stellar.php:127
+msgid "Content Style"
+msgstr ""
+
+#: elementor/widgets/post-kenzo/post-kenzo.php:367
+#: elementor/widgets/post-stellar/post-stellar.php:232
+msgid "Item Wrapper Link"
+msgstr ""
+
+#: elementor/widgets/post-kenzo/post-kenzo.php:368
+#: elementor/widgets/post-stellar/post-stellar.php:233
+msgid "Add link to whole item."
+msgstr ""
+
+#: elementor/widgets/post-kenzo/post-kenzo.php:389
+#: elementor/widgets/post-stellar/post-stellar.php:298
+msgid "Content Padding"
+msgstr ""
+
+#: elementor/widgets/post-kenzo/post-kenzo.php:434
+#: elementor/widgets/post-kenzo/post-kenzo.php:501
+#: elementor/widgets/post-stellar/post-stellar.php:309
+msgid "Content Background"
+msgstr ""
+
+#: elementor/widgets/post-kenzo/post-kenzo.php:654
+#: elementor/widgets/post-modern/post-modern.php:1006
+#: elementor/widgets/post-stellar/post-stellar.php:467
+msgid "by"
+msgstr ""
+
+#: elementor/widgets/post-modern/post-modern.php:23
+msgid "Post Modern"
+msgstr ""
+
+#: elementor/widgets/post-modern/post-modern.php:260
+msgid "Image Link"
+msgstr ""
+
+#: elementor/widgets/post-modern/post-modern.php:261
+msgid "Add link to image."
+msgstr ""
+
+#: elementor/widgets/post-modern/post-modern.php:270
+msgid "Title Position"
+msgstr ""
+
+#: elementor/widgets/post-modern/post-modern.php:283
+msgid "Inside Alignment"
+msgstr ""
+
+#: elementor/widgets/post-modern/post-modern.php:311
+msgid "Terms Position"
+msgstr ""
+
+#: elementor/widgets/post-modern/post-modern.php:332
+msgid "Author Image"
+msgstr ""
+
+#: elementor/widgets/post-modern/post-modern.php:340
+msgid "Author By"
+msgstr ""
+
+#: elementor/widgets/post-modern/post-modern.php:902
+msgid "Items Gap"
+msgstr ""
+
+#: elementor/widgets/post-stellar/post-stellar.php:23
+msgid "Post Stellar"
+msgstr ""
+
+#: elementor/widgets/post-stellar/post-stellar.php:247
+msgid "Container"
+msgstr ""
+
+#: elementor/widgets/post-stellar/post-stellar.php:256
+msgid "Overlay"
+msgstr ""
+
+#: elementor/widgets/post-stellar/post-stellar.php:318
+msgid "Read More Color"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:15
+msgid "Promo Box"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:36
+#: elementor/widgets/promo-box/promo-box.php:79
+msgid "Promo Content"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:43
+msgid "Promo Image"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:68
+msgid "Promo Heading"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:71
+msgid "I am a Promo Box"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:72
+msgid "Enter heading for the promo"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:81
+msgid "This is a simple content."
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:103
+msgid "Promo Effects"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:111
+msgid "Promo Effect"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:115
+msgid "Lily"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:116
+msgid "Sadie"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:117
+msgid "Layla"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:118
+msgid "Oscar"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:119
+msgid "Marley"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:120
+msgid "Ruby"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:121
+msgid "Roxy"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:122
+msgid "Bubba"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:123
+msgid "Romeo"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:124
+msgid "Sarah"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:125
+msgid "Chico"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:126
+msgid "Milo"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:127
+msgid "Apolo"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:128
+msgid "Jazz"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:137
+msgid "Set max width for the container?"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:146
+msgid "Container Max Width"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:203
+msgid "Colors and Typography"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:211
+msgid "Promo Heading Color"
+msgstr ""
+
+#: elementor/widgets/promo-box/promo-box.php:231
+msgid "Promo Content Color"
+msgstr ""
+
+#: elementor/widgets/search/search.php:43
+msgid "Search Type"
+msgstr ""
+
+#: elementor/widgets/search/search.php:47
+msgid "Popup"
+msgstr ""
+
+#: elementor/widgets/search/search.php:56
+msgid "Popup Style"
+msgstr ""
+
+#: elementor/widgets/search/search.php:70
+msgid "Show Icon"
+msgstr ""
+
+#: elementor/widgets/search/search.php:72
+msgid "Yes"
+msgstr ""
+
+#: elementor/widgets/search/search.php:73
+msgid "No"
+msgstr ""
+
+#: elementor/widgets/search/search.php:83
+msgid "Button Title"
+msgstr ""
+
+#: elementor/widgets/search/search.php:129
+msgid "Button Padding"
+msgstr ""
+
+#: elementor/widgets/search/search.php:142
+msgid "Button Margin"
+msgstr ""
+
+#: elementor/widgets/search/search.php:155
+msgid "Button Font Size"
+msgstr ""
+
+#: elementor/widgets/search/search.php:248
+msgid "Background Hover"
+msgstr ""
+
+#: elementor/widgets/search/search.php:259
+msgid "Color Hover"
+msgstr ""
+
+#: elementor/widgets/search/search.php:285
+msgid "Box Shadow Hover"
+msgstr ""
+
+#: elementor/widgets/search/search.php:301
+msgid "Form"
+msgstr ""
+
+#: elementor/widgets/search/search.php:377
+#: elementor/widgets/search/search.php:536
+msgid "Placeholder Color"
+msgstr ""
+
+#: elementor/widgets/search/search.php:419
+msgid "Popup Container"
+msgstr ""
+
+#: elementor/widgets/search/search.php:438
+msgid "Closer Button Color"
+msgstr ""
+
+#: elementor/widgets/search/search.php:449
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/search/search.php:461
+msgid "Title Typography"
+msgstr ""
+
+#: elementor/widgets/search/search.php:469
+msgid "Form Width"
+msgstr ""
+
+#: elementor/widgets/search/search.php:525
+msgid "Form Color"
+msgstr ""
+
+#: elementor/widgets/search/search.php:547
+msgid "Form Background"
+msgstr ""
+
+#: elementor/widgets/site-logo/site-logo.php:54
+msgid "Retina Image"
+msgstr ""
+
+#: elementor/widgets/site-logo/site-logo.php:62
+msgid "Mobile Image"
+msgstr ""
+
+#: elementor/widgets/site-logo/site-logo.php:70
+#: elementor/widgets/site-logo/site-logo.php:245
+msgid "Site Title"
+msgstr ""
+
+#: elementor/widgets/site-logo/site-logo.php:84
+msgid "Title Text"
+msgstr ""
+
+#: elementor/widgets/site-logo/site-logo.php:96
+#: elementor/widgets/site-logo/site-logo.php:292
+msgid "Tagline"
+msgstr ""
+
+#: elementor/widgets/site-logo/site-logo.php:110
+msgid "Tagline Text"
+msgstr ""
+
+#: elementor/widgets/site-logo/site-logo.php:148
+msgid "Logo URL"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:15
+#: elementor/widgets/social-icons/social-icons.php:184
+msgid "Social Icons"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:59
+msgid "Subtitle Position"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:73
+msgid "Display"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:200
+msgid "Move Up Animation"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:205
+msgid "Social Icon"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:206
+msgid "Social Item"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:217
+msgid "Whatsapp"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:218
+msgid "Instagram"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:220
+msgid "Dribbble"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:222
+msgid "Youtube"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:223
+msgid "Vimeo"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:224
+msgid "Github"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:225
+msgid "Behance"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:226
+msgid "Soundcloud"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:227
+msgid "Tumblr"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:228
+msgid "Stackoverflow"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:238
+msgid "Social Media"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:239
+msgid "Select a social media."
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:266
+msgid "Sub Title"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:275
+msgid "Social Media Items"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:290
+msgid "Official Color"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:330
+#: elementor/widgets/social-icons/social-icons.php:364
+#: elementor/widgets/social-icons/social-icons.php:412
+#: elementor/widgets/social-icons/social-icons.php:446
+msgid "Shadow"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:379
+#: elementor/widgets/social-icons/social-icons.php:464
+msgid "Item"
+msgstr ""
+
+#: elementor/widgets/social-icons/social-icons.php:491
+#: elementor/widgets/social-icons/social-icons.php:532
+#: elementor/widgets/social-icons/social-icons.php:649
+#: elementor/widgets/social-icons/social-icons.php:699
+msgid "background"
+msgstr ""
+
+#: elementor/widgets/tag-cloud/tag-cloud.php:15
+msgid "Tag cloud"
+msgstr ""
+
+#: elementor/widgets/tag-cloud/tag-cloud.php:76
+msgid "Item Height(px)"
+msgstr ""
+
+#: elementor/widgets/tag-cloud/tag-cloud.php:109
+msgid "justify"
+msgstr ""
+
+#: elementor/widgets/tag-cloud/tag-cloud.php:122
+msgid "Show Count"
+msgstr ""
+
+#: elementor/widgets/tag-cloud/tag-cloud.php:142
+msgid "Item Limit"
+msgstr ""
+
+#: elementor/widgets/tag-cloud/tag-cloud.php:160
+msgid "Tags"
+msgstr ""
+
+#: elementor/widgets/tag-cloud/tag-cloud.php:174
+msgid "Post Count"
+msgstr ""
+
+#: elementor/widgets/tag-cloud/tag-cloud.php:199
+#: elementor/widgets/tag-cloud/tag-cloud.php:208
+msgid "Tag ID: 12,3,1"
+msgstr ""
+
+#: elementor/widgets/tag-cloud/tag-cloud.php:215
+msgid "Parent"
+msgstr ""
+
+#: elementor/widgets/tag-cloud/tag-cloud.php:217
+msgid "Tag ID: 12"
+msgstr ""
+
+#: elementor/widgets/tag-cloud/tag-cloud.php:244
+msgid "Single Background"
+msgstr ""
+
+#: elementor/widgets/tag-cloud/tag-cloud.php:264
+msgid "Multiple Background"
+msgstr ""
+
+#: inc/functions.php:230
+msgid "Layout 1 (5 items)"
+msgstr ""
+
+#: inc/functions.php:231
+msgid "Layout 2 (4 items)"
+msgstr ""
+
+#: inc/functions.php:232
+msgid "Layout 3 (4 items)"
+msgstr ""
+
+#: inc/functions.php:233
+msgid "Layout 4 (4 items)"
+msgstr ""
+
+#: inc/functions.php:234
+msgid "Layout 5 (4 items)"
+msgstr ""
+
+#: inc/functions.php:235
+msgid "Layout 6 (3 items)"
+msgstr ""
+
+#: inc/functions.php:236
+msgid "Layout 7 (5 items)"
+msgstr ""
+
+#: inc/functions.php:237
+msgid "Layout 8 (5 items)"
+msgstr ""
+
+#: inc/functions.php:238
+msgid "Layout 9 (5 items)"
+msgstr ""
+
+#: inc/functions.php:239
+msgid "Layout 10 (3 items)"
+msgstr ""
+
+#: inc/functions.php:240
+msgid "Layout 11 (3 items)"
+msgstr ""
+
+#: inc/functions.php:241
+msgid "Layout 12 (4 items)"
+msgstr ""
+
+#: inc/functions.php:242
+msgid "Layout 13 (6 items)"
+msgstr ""
+
+#: inc/functions.php:243
+msgid "Layout 14 (5 items)"
+msgstr ""
+
+#: inc/functions.php:244
+msgid "Layout 15 (4 items)"
+msgstr ""
+
+#: inc/functions.php:245
+msgid "Layout 16 (5 items)"
+msgstr ""
+
+#: inc/functions.php:246
+msgid "Layout 17 (5 items)"
+msgstr ""
+
+#: inc/functions.php:247
+msgid "Layout 18 (5 items)"
+msgstr ""
+
+#: inc/functions.php:248
+msgid "Layout 19 (4 items)"
+msgstr ""
+
+#: inc/functions.php:249
+msgid "Layout 20 (5 items)"
+msgstr ""
+
+#: inc/functions.php:250
+msgid "Layout 21 (4 items)"
+msgstr ""
+
+#: inc/functions.php:251
+msgid "Layout 22 (3 items)"
+msgstr ""
+
+#: inc/functions.php:252
+msgid "Layout 23 (6 items)"
+msgstr ""
+
+#: inc/functions.php:253
+msgid "Layout 24 (4 items)"
+msgstr ""
+
+#: inc/functions.php:254
+msgid "Layout 25 (5 items)"
+msgstr ""
+
+#: inc/functions.php:255
+msgid "Layout 26 (6 items)"
+msgstr ""
+
+#: inc/functions.php:256
+msgid "Layout 27 (3 items)"
+msgstr ""
+
+#: inc/functions.php:257
+msgid "Layout 28 (2 items)"
+msgstr ""
+
+#: inc/functions.php:258
+msgid "Layout 29 (2 items)"
+msgstr ""
+
+#: inc/mega-menu.php:28
+msgid "Mega Menu 3 Column"
+msgstr ""
+
+#: inc/mega-menu.php:29
+msgid "Mega Menu 4 Column"
+msgstr ""
+
+#: inc/mega-menu.php:38
+msgid "Mega Menu Template"
+msgstr ""
+
+#: inc/theme-setup.php:79
+msgid "Primary menu"
+msgstr ""
+
+#: inc/theme-setup.php:80
+msgid "Mobile menu"
+msgstr ""
+
+#: inc/theme-setup.php:196
+msgid "Default Sidebar Widgets"
+msgstr ""
+
+#: inc/theme-setup.php:206
+msgid "Default Footer Widgets"
+msgstr ""
+
+#: single.php:78
+msgid "Tags:"
+msgstr ""
+
+#: template-parts/404-default.php:12
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: template-parts/404-default.php:13
+msgid "Return to Home Page"
+msgstr ""
+
+#: template-parts/archive/archive-title.php:22
+msgid "Browse Category"
+msgstr ""
+
+#: template-parts/archive/archive-title.php:26
+msgid "Browse Tag"
+msgstr ""
+
+#: template-parts/archive/archive-title.php:30
+#: template-parts/archive/archive-title.php:34
+#: template-parts/archive/archive-title.php:45
+msgid "Browse"
+msgstr ""
+
+#: template-parts/archive/archive-title.php:38
+msgid "Search Result for"
+msgstr ""
+
+#: template-parts/archive/archive-title.php:70
+#: template-parts/archive/archive-title.php:92
+#: template-parts/archive/archive-title.php:103
+#, php-format
+msgid "%s Article"
+msgid_plural "%s Articles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-parts/footer/footer-default.php:9
+msgid "All Right Reserved!"
+msgstr ""
+
+#: template-parts/post/author-box.php:15
+msgid "Follow Me"
+msgstr ""
+
+#: template-parts/post/author-box.php:16
+msgid "Written By"
+msgstr ""
+
+#: template-parts/post/hero/content-20.php:41
+#: template-parts/post/hero/content-21.php:43
+#: template-parts/post/hero/content-22.php:40
+#: template-parts/post/hero/title-section-1.php:99
+msgid "comments"
+msgstr ""
+
+#: template-parts/post/hero/title-section-1.php:82
+#: template-parts/post/hero/title-section-2.php:80
+#, php-format
+msgid "One Min Read"
+msgid_plural "%d  Mins Read"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-parts/post/hero/title-section-2.php:96
+#, php-format
+msgid "%d Comment"
+msgid_plural "%d Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-parts/post/next-prev-posts-fixed.php:19
+#: template-parts/post/next-prev-posts.php:55
+msgid "Next"
+msgstr ""
+
+#: template-parts/post/next-prev-posts-fixed.php:44
+msgid "Previews"
+msgstr ""
+
+#: template-parts/post/next-prev-posts.php:32
+msgid "Previous"
+msgstr ""
+
+#: template-parts/post/share.php:17
+msgid "Share Article"
+msgstr ""
+
+#: template-parts/post/share.php:48
+msgid "Link Copied!"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://demo.rivaxstudio.com/kayleen/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Kayleen is Designed for lightweight WordPress Magazine, Blog and Newspapaer "
+"Websites."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "RivaxStudio"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/rivaxstudio/"
+msgstr ""

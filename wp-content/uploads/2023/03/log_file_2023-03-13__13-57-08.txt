@@ -1,0 +1,281 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/Nafiri
+Data file = C:\server\htdocs\Nafiri/wp-content/themes/kayleen/admin/demo/content.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+rivax_kayleen_options -> C:\server\htdocs\Nafiri/wp-content/themes/kayleen/admin/demo/redux.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_cat Computers
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Smartwatch
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_cat Computers
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Smartwatch
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_cat Computers
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Smartwatch
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_cat Computers
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Smartwatch
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_cat Computers
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Smartwatch
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_cat Computers
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Smartwatch
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_cat Computers
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Smartwatch
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_cat Computers
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Smartwatch
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_cat Computers
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Smartwatch
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_cat Computers
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Smartwatch
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_cat Computers
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Smartwatch
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_cat Computers
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Smartwatch
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import "Subscribe": Invalid post type mc4wp-form
+
+
+---Importing Redux settings---
+Redux settings import for: rivax_kayleen_options finished successfully!

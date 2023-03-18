@@ -1,0 +1,474 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Rivax Addon\n"
+"POT-Creation-Date: 2022-02-04 10:40+0330\n"
+"PO-Revision-Date: 2021-12-20 19:42+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: rivax-addon.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: meta-box.php:30 meta-box.php:70 meta-box.php:91 meta-box.php:131
+msgid "Page Layout"
+msgstr ""
+
+#: meta-box.php:38 meta-box.php:99
+msgid "Page Header"
+msgstr ""
+
+#: meta-box.php:45 meta-box.php:106
+msgid "Header Type"
+msgstr ""
+
+#: meta-box.php:49 meta-box.php:74 meta-box.php:110 meta-box.php:135
+#: meta-box.php:185
+msgid "Default"
+msgstr ""
+
+#: meta-box.php:50 meta-box.php:111
+msgid "Normal"
+msgstr ""
+
+#: meta-box.php:51 meta-box.php:112
+msgid "Float"
+msgstr ""
+
+#: meta-box.php:56 meta-box.php:117
+msgid "Page Sticky Header"
+msgstr ""
+
+#: meta-box.php:63 meta-box.php:124
+msgid "Page Footer"
+msgstr ""
+
+#: meta-box.php:75 meta-box.php:136
+msgid "Left Sidebar"
+msgstr ""
+
+#: meta-box.php:76 meta-box.php:137
+msgid "Right Sidebar"
+msgstr ""
+
+#: meta-box.php:77 meta-box.php:138
+msgid "No Sidebar"
+msgstr ""
+
+#: meta-box.php:78 meta-box.php:139
+msgid "No Sidebar + Narrow Content"
+msgstr ""
+
+#: meta-box.php:79 meta-box.php:140
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: meta-box.php:145
+msgid "Page Top Content"
+msgstr ""
+
+#: meta-box.php:152
+msgid "Page Bottom Content"
+msgstr ""
+
+#: meta-box.php:166
+msgid "Post Hero Section Settings"
+msgstr ""
+
+#: meta-box.php:174
+msgid "Standard Post Format:"
+msgstr ""
+
+#: meta-box.php:177
+msgid "Settings for standard post format"
+msgstr ""
+
+#: meta-box.php:181
+msgid "Post Hero Layout"
+msgstr ""
+
+#: meta-box.php:186
+msgid "Layout 1"
+msgstr ""
+
+#: meta-box.php:187
+msgid "Layout 2"
+msgstr ""
+
+#: meta-box.php:188
+msgid "Layout 3"
+msgstr ""
+
+#: meta-box.php:189
+msgid "Layout 4"
+msgstr ""
+
+#: meta-box.php:190
+msgid "Layout 5"
+msgstr ""
+
+#: meta-box.php:191
+msgid "Layout 6"
+msgstr ""
+
+#: meta-box.php:192
+msgid "Layout 7"
+msgstr ""
+
+#: meta-box.php:193
+msgid "Layout 8"
+msgstr ""
+
+#: meta-box.php:194
+msgid "Layout 9"
+msgstr ""
+
+#: meta-box.php:195
+msgid "Layout 10"
+msgstr ""
+
+#: meta-box.php:196
+msgid "Layout 11"
+msgstr ""
+
+#: meta-box.php:197
+msgid "Layout 12"
+msgstr ""
+
+#: meta-box.php:198
+msgid "Layout 13"
+msgstr ""
+
+#: meta-box.php:199
+msgid "Layout 14"
+msgstr ""
+
+#: meta-box.php:200
+msgid "Layout 15"
+msgstr ""
+
+#: meta-box.php:201
+msgid "Layout 16"
+msgstr ""
+
+#: meta-box.php:202
+msgid "Layout 17"
+msgstr ""
+
+#: meta-box.php:203
+msgid "Layout 18"
+msgstr ""
+
+#: meta-box.php:204
+msgid "Layout 19"
+msgstr ""
+
+#: meta-box.php:205
+msgid "Layout 20"
+msgstr ""
+
+#: meta-box.php:206
+msgid "Layout 21"
+msgstr ""
+
+#: meta-box.php:207
+msgid "Layout 22"
+msgstr ""
+
+#: meta-box.php:208
+msgid "Layout 23"
+msgstr ""
+
+#: meta-box.php:209
+msgid "Layout 24"
+msgstr ""
+
+#: meta-box.php:210
+msgid "Layout 25"
+msgstr ""
+
+#: meta-box.php:211
+msgid "Layout 26"
+msgstr ""
+
+#: meta-box.php:217
+msgid "Gallery Post Format:"
+msgstr ""
+
+#: meta-box.php:220
+msgid "Settings for gallery post format"
+msgstr ""
+
+#: meta-box.php:224
+msgid "Gallery Images"
+msgstr ""
+
+#: meta-box.php:231
+msgid "Audio Post Format:"
+msgstr ""
+
+#: meta-box.php:234
+msgid "Settings for audio post format"
+msgstr ""
+
+#: meta-box.php:238
+msgid "Audio URL"
+msgstr ""
+
+#: meta-box.php:241
+msgid ""
+"From soundcloud ( Eg. https://soundcloud.com/millesimofficial/zara-larsson-"
+"uncover-j-art-madan )"
+msgstr ""
+
+#: meta-box.php:245
+msgid "Video Post Format:"
+msgstr ""
+
+#: meta-box.php:248
+msgid "Settings for video post format"
+msgstr ""
+
+#: meta-box.php:252
+msgid "Video URL"
+msgstr ""
+
+#: meta-box.php:255
+msgid ""
+"From Youtube or Vimeo ( Eg. https://www.youtube.com/watch?v=M1INNns-Vi8 )"
+msgstr ""
+
+#: meta-box.php:259
+msgid "Link Post Format:"
+msgstr ""
+
+#: meta-box.php:262
+msgid "Settings for link post format"
+msgstr ""
+
+#: meta-box.php:266
+msgid "Link URL"
+msgstr ""
+
+#: meta-box.php:269
+msgid "Eg. https://example.com"
+msgstr ""
+
+#: meta-box.php:273
+msgid "Link Title"
+msgstr ""
+
+#: meta-box.php:276
+msgid "Eg. Rivax Studio"
+msgstr ""
+
+#: meta-box.php:280
+msgid "Quote Post Format:"
+msgstr ""
+
+#: meta-box.php:283
+msgid "Settings for quote post format"
+msgstr ""
+
+#: meta-box.php:287
+msgid "Quote Author"
+msgstr ""
+
+#: meta-box.php:293
+msgid "Quote Content"
+msgstr ""
+
+#: meta-box.php:306
+msgid "Avatar"
+msgstr ""
+
+#: meta-box.php:313
+msgid "Extra Info From Theme"
+msgstr ""
+
+#: meta-box.php:319
+msgid "Profile Image"
+msgstr ""
+
+#: meta-box.php:321
+msgid "Upload square image. 120px*120px"
+msgstr ""
+
+#: meta-box.php:328
+msgid "Email Address"
+msgstr ""
+
+#: meta-box.php:334
+msgid "Website URL"
+msgstr ""
+
+#: meta-box.php:340
+msgid "Facebook URL"
+msgstr ""
+
+#: meta-box.php:346
+msgid "Twitter URL"
+msgstr ""
+
+#: meta-box.php:352
+msgid "Linkedin URL"
+msgstr ""
+
+#: meta-box.php:358
+msgid "Whatsapp URL"
+msgstr ""
+
+#: meta-box.php:364
+msgid "Instagram URL"
+msgstr ""
+
+#: meta-box.php:370
+msgid "Pinterest URL"
+msgstr ""
+
+#: meta-box.php:376
+msgid "Dribbble URL"
+msgstr ""
+
+#: meta-box.php:382
+msgid "Telegram URL"
+msgstr ""
+
+#: meta-box.php:388
+msgid "Youtube URL"
+msgstr ""
+
+#: meta-box.php:394
+msgid "Github URL"
+msgstr ""
+
+#: meta-box.php:407
+msgid "Category Settings"
+msgstr ""
+
+#: meta-box.php:415
+msgid "Color"
+msgstr ""
+
+#: rivax-addon.php:18 rivax-addon.php:26
+msgid "Rivax Templates"
+msgstr ""
+
+#: rivax-addon.php:19 rivax-addon.php:20
+msgid "Rivax Template"
+msgstr ""
+
+#: rivax-addon.php:21
+msgid "Add New"
+msgstr ""
+
+#: rivax-addon.php:22
+msgid "Add New Rivax Template"
+msgstr ""
+
+#: rivax-addon.php:23
+msgid "New Rivax Template"
+msgstr ""
+
+#: rivax-addon.php:24
+msgid "Edit Rivax Template"
+msgstr ""
+
+#: rivax-addon.php:25
+msgid "View Rivax Template"
+msgstr ""
+
+#: rivax-addon.php:27
+msgid "Search Rivax Templates"
+msgstr ""
+
+#: rivax-addon.php:28
+msgid "Not found"
+msgstr ""
+
+#: rivax-addon.php:29
+msgid "Not found anythings in the trash"
+msgstr ""
+
+#: rivax-addon.php:72
+msgid "Views"
+msgstr ""
+
+#: rivax-addon.php:123
+msgid "Website: "
+msgstr ""
+
+#: rivax-addon.php:127
+msgid "Send Me an Email"
+msgstr ""
+
+#: rivax-addon.php:131
+msgid "Follow Me on Facebook"
+msgstr ""
+
+#: rivax-addon.php:135
+msgid "Follow Me on Twitter"
+msgstr ""
+
+#: rivax-addon.php:139
+msgid "Follow Me on Linkedin"
+msgstr ""
+
+#: rivax-addon.php:143
+msgid "Follow Me on WhatsApp"
+msgstr ""
+
+#: rivax-addon.php:147
+msgid "Follow Me on Instagram"
+msgstr ""
+
+#: rivax-addon.php:151
+msgid "Follow Me on Pinterest"
+msgstr ""
+
+#: rivax-addon.php:155
+msgid "Follow Me on Dribbble"
+msgstr ""
+
+#: rivax-addon.php:159
+msgid "Follow Me on Telegram"
+msgstr ""
+
+#: rivax-addon.php:163
+msgid "Follow Me on Youtube"
+msgstr ""
+
+#: rivax-addon.php:167
+msgid "Follow Me on Github"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Rivax Addon"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://demo.rivaxstudio.com/kalidas/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add rivax templates post type for theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "RivaxStudio"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/rivaxstudio/"
+msgstr ""
